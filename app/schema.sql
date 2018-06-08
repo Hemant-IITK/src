@@ -1,0 +1,7 @@
+CREATE TABLE users(
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  email VARCHAR(255) NOT NULL,
+  created_at TIMESTAMP DEFAULT NOW()
+);
+INSERT INTO users(email)
+ VALUES('utsav807@gmail.com');
