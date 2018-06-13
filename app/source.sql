@@ -14,7 +14,8 @@ CREATE TABLE patient_info(
 
 CREATE TABLE doctor_info(
   doc_id INT NOT NULL PRIMARY KEY,
-  name VARCHAR(50),
+  first_name VARCHAR(50),
+  last_name VARCHAR(50),
   age INT NOT NULL,
   qualification VARCHAR(50),
   speciality VARCHAR(50)
@@ -57,56 +58,277 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 CREATE TABLE diseases(
   dis_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(55),
-  descr VARCHAR(255)
+  dis_name VARCHAR(55),
+  links VARCHAR(255)
 );
-INSERT INTO diseases(name,descr) VALUES
+INSERT INTO diseases(dis_name,links) VALUES
 (
-	'AAA', 
-	'An abdominal aortic aneurysm (AAA) is a swelling (aneurysm) of the aorta – the main blood vessel that leads away from the heart, down through the abdomen to the rest of the body.'
+	'Abdominal Aortic aneurysm', 
 ),
 (
 	'Acne',
-	"Acne is a common skin condition that affects most people at some point. It causes spots, oily skin and sometimes skin that's hot or painful to touch.
-It most commonly develops on the face – this affects almost everyone with acne,back – this affects more than half of people with acne,chest – this affects about 15% of people with acne"
+),
+(
+  'AIDS'
 ),
 (
 	'Acute cholecystitis',
-	'Acute cholecystitis is swelling (inflammation) of the gallbladder.'
 ),
 (
-	'Acute myleoid leukaemia',
-	'Leukaemia is cancer of the white blood cells. Acute leukaemia means it progresses rapidly and aggressively, and usually requires immediate treatment.'
+	'Acute myleoid leukaemia'
 ),
 (
 	"Alzheimer's disease",
-	"Alzheimer's disease is the most common type of dementia,which is a progressive neurological disease which affects multiple brain functions, including memory."
 ),
 (
 	"Addison’s disease",
-	"Addison’s disease (also known as primary adrenal insufficiency or hypoadrenalism) is a rare disorder of the adrenal glands in which the adrenal gland is damaged, and not enough cortisol and aldosterone are produced."
 ),
 (
 	"Anal cancer",
-	"Anal cancer is a rare type of cancer that affects the very end of the large bowel."
+),
+(
+  'Anaemia'
 ),
 (
 	"Anaphylaxis",
-	"Anaphylaxis is a severe, potentially life-threatening allergic reaction that can develop rapidly.It is also known as anaphylactic shock."
 ),
 (
 	"Angioedema",
-	"Angioedema is the swelling of the deeper layers of the skin, caused by a build-up of fluid which affects eyes,lips,genitals,hands,feet"
 ),
 (
 	"Anorexia nervosa",
-	"Anorexia nervosa is an eating disorder and a serious mental health condition.People with anorexia have problems with eating. They are very anxious about their weight and keep it as low as possible by strictly controlling and limiting what they eat."
 ),
 (
 	"Appendicitis"
-	"Appendicitis is a painful swelling of the appendix. The appendix is a small, thin pouch about 5-10cm (2-4 inches) long. It's connected to the large intestine, where stools (faeces) are formed.
-"
+),
+(
+  "Arthritis",
+),
+(
+  "Asthama",
+),
+(
+  "Benign prostrate enlargement",
+),
+(
+  "Bladder cancer",
+),
+(
+  "Bone cancer",
+),
+(
+  "Bowel cancer",
+),
+(
+  "Bowel polyps",
+),
+(
+  'Brain stem death'
+),
+(
+  'Brain tumours'
+),
+(
+  'Breast cancer'
+),
+(
+  'Bronchiectasis'
+),
+(
+  'Bronchitis'
+),
+(
+  'Bulimia'
+),
+(
+  'Bunion'
+),
+(
+  'Bursitis'
+),
+(
+  'Catarrh'
+),
+(
+  'Cellulitis'
+),
+(
+  'Cervical cancer'
+),
+(
+  'Chest Infection'
+),
+(
+  'Chest pain'
+),
+(
+  'Chickenpox'
+),
+(
+  'Chronic myeloid leukaemia'
+),
+(
+  'Chronic lymphocytic leukaemia'
+),
+(
+  'Chronic pancreatitis'
+),
+(
+  'Cirrhosis'
+),
+(
+  'Coma'
+),
+(
+  'Common cold'
+),
+(
+  'Deafblindness'
+),
+(
+  'Dehydration'
+),
+(
+  'Depression'
+),
+(
+  'Diabetes'
+),
+(
+  'Diarrhoea'
+),
+(
+  "Down's Syndrome"
+),
+(
+  'Epilepsy'
+),
+(
+  'Erectile Dysfunction'
+),
+(
+  'Eye Cancer'
+),
+(
+  'Endometriosis'
+),
+(
+  'Ectopic Pregnency'
+),
+(
+  'Food Poisoning'
+),
+(
+  'Fibromyalgia'
+),
+(
+  'Gallbladder Cancer'
+),
+(
+  'Gallstones'
+),
+(
+  'Gastroenteritis'
+),
+(
+  'Gastro-eosophageal reflux disease'
+),
+(
+  'Gum disease'
+),
+(
+  'Haemorrhoids'
+),
+(
+  'Hepatits A'
+),
+(
+  'Hepatits B'
+),
+(
+  'Hepatitis C'
+),
+(
+  "Huntington's Disease"
+),
+(
+  'Hyperglycaemia(High blood sugar)'
+),
+(
+  'Hyperhidrosis'
+),
+(
+  'Hypoglycaemia'
+),
+(
+  'Insomnia'
+),
+(
+  'Irritable bowel syndrome'
+),
+(
+  'Itching'
+),
+(
+  'Impetigo'
+),
+(
+  "Kaposi's sarcoma"
+),
+(
+  'Kidney Cancer'
+),
+(
+  'Kidney Infection'
+),
+(
+  'Kidney stones'
+),
+(
+  'Labyrinthitis'
+),
+(
+  'Lactose Intolerance'
+),
+(
+  'Liver cancer'
+),
+(
+  'Lung cancer'
+),
+(
+  'Laryngitis'
+),
+(
+  'Laryngeal cancer'
+),
+(
+  'Lyme Disease'
+),
+(
+  'Lymphoedema'
+),
+(
+  'Lupus'
+),
+(
+  'Malaria'
+),
+(
+  'Malnutrition'
+),
+(
+  'Measles'
+),
+(
+  'Migraine'
+),
+(
+  'Meningitis'
+),
+(
+  'Menopause'
 ),
 --symptoms batayega to disease aur disease se remedy
-
+-- A-14 , B-13, C-12, D-6, E-5, F-2, G-5, H-8, I-4, K-4, L-9, M-
 --index cols to retrieve data fast.
