@@ -63,43 +63,43 @@ CREATE TABLE diseases(
 );
 INSERT INTO diseases(dis_name,links) VALUES
 (
-	'Abdominal Aortic aneurysm', 
+  'Abdominal Aortic aneurysm', 
 ),
 (
-	'Acne',
+  'Acne',
 ),
 (
   'AIDS'
 ),
 (
-	'Acute cholecystitis',
+  'Acute cholecystitis',
 ),
 (
-	'Acute myleoid leukaemia'
+  'Acute myleoid leukaemia'
 ),
 (
-	"Alzheimer's disease",
+  "Alzheimer's disease",
 ),
 (
-	"Addison’s disease",
+  "Addison’s disease",
 ),
 (
-	"Anal cancer",
+  "Anal cancer",
 ),
 (
   'Anaemia'
 ),
 (
-	"Anaphylaxis",
+  "Anaphylaxis",
 ),
 (
-	"Angioedema",
+  "Angioedema",
 ),
 (
-	"Anorexia nervosa",
+  "Anorexia nervosa",
 ),
 (
-	"Appendicitis"
+  "Appendicitis"
 ),
 (
   "Arthritis",
@@ -190,9 +190,6 @@ INSERT INTO diseases(dis_name,links) VALUES
 ),
 (
   'Depression'
-),
-(
-  'Diabetes'
 ),
 (
   'Diarrhoea'
@@ -327,8 +324,171 @@ INSERT INTO diseases(dis_name,links) VALUES
   'Meningitis'
 ),
 (
-  'Menopause'
+  'Mesothelioma'
+),
+(
+  'Motor neuron disease'
+),
+(
+  'Mouth cancer'
+),
+(
+  'Mouth ulcer'
+),
+(
+  'Mumps'
+),
+(
+  "Meniere's Disease"
+),
+(
+  'Nasal and sinus cancer'
+),
+(
+  'Nasopharyngeal cancer'
+),
+(
+  'Neuroblastoma'
+),
+(
+  'Neuroendocrine tumours'
+),
+(
+  'Obesity'
+),
+(
+  'Obsessive Compulsive disorder'
+),
+(
+  'Obstructive sleep apnoea'
+),
+(
+  'Oesophageal cancer'
+),
+(
+  'Osteoarthritis'
+),
+(
+  'Osteoporosis'
+),
+(
+  'Osteosarcoma'
+),
+(
+  'Ovarian cancer'
+),
+(
+  'Pancreatic cancer'
+),
+(
+  "Parkinson's Disease"
+),
+(
+  'Personality disorder'
+),
+(
+  'Pelvic organ prolapse'
+),
+(
+  'Pneumonia'
+),
+(
+  'Prostate cancer'
+),
+(
+  'Psychosis'
+),
+(
+  "Raynaud's Phenomenon"
+),
+(
+  'Retinoblastoma'
+),
+(
+  'Rosacea'
+),
+(
+  'Rhabdomyosarcoma'
+),
+(
+  'Restless legs syndrome'
+),
+(
+  'Scabies'
+),
+(
+  'Scoliosis'
+),
+(
+  'Schizophrenia'
+),
+(
+  'Sickle cell disease'
+),
+(
+  'Skin cancer(melanoma)'
+),
+(
+  'Skin cancer(non-melanoma)'
+),
+(
+  "Sjogren's syndrome"
+),
+(
+  'Stomach cancer'
+),
+(
+  'Stomach ulcer'
+),
+(
+  'Stroke'
+),
+(
+  'Testicular cancer'
+),
+(
+  'Thyroid cancer'
+),
+(
+  'Tuberculosis'
+),
+(
+  'Type 1 Diabetes'
+),
+(
+  'Type 2 Diabetes'
+),
+(
+  'Urinary Tract infection'
+),
+(
+  'Ulcerative colitis'
+),
+(
+  'Urinary incotinence'
+),
+(
+  'Uterus Cancer'
+),
+(
+  'Vaginal Cancer'
+),
+(
+  'Vertigo'
+),
+(
+  'Vulval cancer'
+), 
+(
+  'Warts'
+),
+(
+  "Wilm's tumour"
+),
+(
+  'Yellow fever'
 ),
 --symptoms batayega to disease aur disease se remedy
--- A-14 , B-13, C-12, D-6, E-5, F-2, G-5, H-8, I-4, K-4, L-9, M-
+-- A-14 , B-13, C-12, D-5, E-5, F-2, G-5, H-8, I-4, K-4, L-9, M-11, N-4, O-8, P-7, R-5,S-10, T-5, U-4, V-3, W-2, Y-1
+-- A-Y 141
 --index cols to retrieve data fast.
