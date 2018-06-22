@@ -48,82 +48,226 @@ CREATE TABLE symptoms(
   sym_desc VARCHAR(255)
 );
 INSERT INTO symptoms(sym_desc) VALUES(
-
+  'bledding'
 ),
 (
-
+  'constipation'
 ),
 (
-
+  'nausea'
 ),
+(
+  'vomitting'
+),
+(
+  'tingling'
+),
+(
+  'joint pain'
+),
+
+(
+  'swelling'
+),
+
+(
+  'bruising'
+),
+
+(
+  'cough'
+),
+(
+  'body rash'
+),
+
+(
+  'sore throat'
+),
+
+(
+  'headaches'
+),
+
+(
+  'back pain'
+),
+
+(
+  'pain in abdomen'
+),
+(
+  'weakness'
+),
+
+(
+  'shortness of breath'
+),
+
+(
+  'feeling cold'
+),
+
+(
+  'memory loss'
+),
+
+(
+  'changes in vision'
+),
+
+(
+  'dizziness'
+),
+
+(
+  'pale skin'
+),
+
+(
+  'weight loss'
+),
+
+(
+  'depression'
+),
+
+(
+  'muscle pain'
+),
+
+(
+  'bluish discolouration of fingers'
+),
+
+(
+  'absence of menstruation'
+),
+
+(
+  'dehydration'
+),
+
+(
+  'abnormal blood counts'
+),
+
+(
+  'joint deformity'
+),
+
+(
+  'joint redness'
+),
+
+(
+  'limping'
+),
+
+(
+  'chest tightness'
+),
+
+(
+  'chest pain'
+),
+(
+  'frequent urination'
+),
+(
+  'blood in urine'
+),
+(
+  'pain or burning sensation during urination'
+),
+(
+  'weakened bone leading to fracture'
+),
+(
+  'seizures'
+),
+(
+  'personality or memory change'
+),
+(
+  'sleep problems'
+),
+(
+  'change in size of breast'
+),
+(
+  'change in skin texture of breast'
+),
+(
+  'coughing out blood'
+),
+(
+  'thickening of skin under nails and toes'
+),
+(
+  'Production of mucus'
+),
+(
+  'slight fever and chills'
+),
+(
+  'infertility'
+),
+(
+  'inflammation of esophagus'
+),
+(
+  'lack of control when eating'
+),
+(
+  ''
+),
+
+
 CREATE TABLE diseases(
   dis_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   dis_name VARCHAR(55),
   links VARCHAR(255)
 );
-INSERT INTO diseases(dis_name,links) VALUES
+INSERT INTO diseases(dis_name) VALUES
 (
-  'Abdominal Aortic aneurysm', 
+  'Abdominal Aortic aneurysm'
 ),
 (
-  'Acne',
+  'Acne'
 ),
 (
   'AIDS'
 ),
 (
-  'Acute cholecystitis',
-),
-(
   'Acute myleoid leukaemia'
 ),
 (
-  "Alzheimer's disease",
+  "Alzheimer's disease"
 ),
 (
-  "Addison’s disease",
+  "Addison’s disease"
 ),
 (
-  "Anal cancer",
+  "Anal cancer"
 ),
 (
   'Anaemia'
 ),
 (
-  "Anaphylaxis",
+  "Anorexia nervosa"
 ),
 (
-  "Angioedema",
+  "Arthritis"
 ),
 (
-  "Anorexia nervosa",
+  "Asthama"
 ),
 (
-  "Appendicitis"
+  "Bladder cancer"
 ),
 (
-  "Arthritis",
-),
-(
-  "Asthama",
-),
-(
-  "Benign prostrate enlargement",
-),
-(
-  "Bladder cancer",
-),
-(
-  "Bone cancer",
-),
-(
-  "Bowel cancer",
-),
-(
-  "Bowel polyps",
-),
-(
-  'Brain stem death'
+  "Bone cancer"
 ),
 (
   'Brain tumours'
@@ -139,18 +283,6 @@ INSERT INTO diseases(dis_name,links) VALUES
 ),
 (
   'Bulimia'
-),
-(
-  'Bunion'
-),
-(
-  'Bursitis'
-),
-(
-  'Catarrh'
-),
-(
-  'Cellulitis'
 ),
 (
   'Cervical cancer'
