@@ -220,6 +220,12 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'lack of control when eating'
 ),
 (
+  'vaginal bleeding'
+),
+(
+  'unusual vaginal discharge'
+),
+(
   ''
 ),
 
