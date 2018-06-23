@@ -318,31 +318,37 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'pain during and after sex'
 ),
 (
-  'extreme sensitivity'
+  'extreme sensitivity' --
 ),
 (
-  'jaundice (yellowing of the skin and whites of the eyes)'
+  'jaundice (yellowing of the skin and whites of the eyes)' --gallbladder cancer
 ),
 (
-  'sudden, watery diarrhoea'
+  'sudden, watery diarrhoea' --gastroenteritis
 ),
 (
-  'heartburn'
+  'heartburn' --GERD
 ),
 (
-  'acid reflux'
+  'acid reflux' --GERD
 ),
 (
-  'red and swollen gums'
+  'red and swollen gums' --gum disease
 ),
 (
-  'bleeding gums after brushing or flossing your teeth'
+  'bleeding gums after brushing or flossing your teeth' --gum disease
 ),
 (
-  'unpleasent taste in mouth'
+  'unpleasent taste in mouth' --gum disesase
 ),
 (
-  ''
+  'a lump hanging down outside of the anus' --haemorrhoids
+),
+(
+  'soreness and swelling around the anus' --haemorrhoids
+),
+(
+  'mucus discharge after passing a stool'  --haemorrhoids
 ),
 (
   ''
@@ -472,7 +478,7 @@ INSERT INTO diseases(dis_name) VALUES
   'Gum disease'
 ),
 (
-  'Haemorrhoids'
+  'Haemorrhoids(piles)'
 ),
 (
   'Hepatits A'
