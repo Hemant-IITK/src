@@ -259,6 +259,92 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'tiny red lines above waist'
 ),
 (
+  'hoarse voice'
+),
+(
+  'blocked or running nose'
+),
+
+(
+  'dry mouth, lips and eyes'
+),
+
+(
+  'continuous low mood or sadness'
+),
+(
+  'feeling hopeless and helpless'
+),
+(
+  'lack of energy or lack of interest in sex'
+),
+(
+  'difficulty in making decisions'
+),
+(
+  'stomach cramps'
+),
+(
+  'flat back of the head'
+),
+(
+  'eyes that slant upwards and outwards'
+),
+(
+  'stiffness or twitching in parts of the body'
+),
+(
+  'complex seizures'
+),
+(
+  'inability to get and maintain an erection for satisfactory intercourse.'
+),
+(
+  'blurred vision'
+),
+(
+  "a dark patch in my eye that's getting bigger"
+),
+(
+  'shadows, flashes of light, or wiggly lines in my vision'
+),
+(
+  'painful periods or heavy periods'
+),
+(
+  'bleeding between periods'
+),
+(
+  'pain during and after sex'
+),
+(
+  'extreme sensitivity'
+),
+(
+  'jaundice (yellowing of the skin and whites of the eyes)'
+),
+(
+  'sudden, watery diarrhoea'
+),
+(
+  'heartburn'
+),
+(
+  'acid reflux'
+),
+(
+  'red and swollen gums'
+),
+(
+  'bleeding gums after brushing or flossing your teeth'
+),
+(
+  'unpleasent taste in mouth'
+),
+(
+  ''
+),
+(
   ''
 ),
 
@@ -344,9 +430,6 @@ INSERT INTO diseases(dis_name) VALUES
   'Common cold'
 ),
 (
-  'Deafblindness'
-),
-(
   'Dehydration'
 ),
 (
@@ -371,9 +454,6 @@ INSERT INTO diseases(dis_name) VALUES
   'Endometriosis'
 ),
 (
-  'Ectopic Pregnency'
-),
-(
   'Food Poisoning'
 ),
 (
@@ -381,9 +461,6 @@ INSERT INTO diseases(dis_name) VALUES
 ),
 (
   'Gallbladder Cancer'
-),
-(
-  'Gallstones'
 ),
 (
   'Gastroenteritis'
