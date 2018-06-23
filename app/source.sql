@@ -226,9 +226,41 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'unusual vaginal discharge'
 ),
 (
+  'wheezing'
+),
+(
+  'rapid heartbeat'
+),
+(
+  'clustered spots'
+),
+(
+  'spots turning into blisters'
+),
+(
+  'loss of appetite'
+),
+(
+  'frequent infections'
+),
+(
+  'a feeling of bloating'
+),
+(
+  'swelling and discomfort in tummy'
+),
+(
+  'night sweats'
+),
+(
+  'loss of hair'
+),
+(
+  'tiny red lines above waist'
+),
+(
   ''
 ),
-
 
 CREATE TABLE diseases(
   dis_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -297,9 +329,6 @@ INSERT INTO diseases(dis_name) VALUES
   'Chest Infection'
 ),
 (
-  'Chest pain'
-),
-(
   'Chickenpox'
 ),
 (
@@ -309,13 +338,7 @@ INSERT INTO diseases(dis_name) VALUES
   'Chronic lymphocytic leukaemia'
 ),
 (
-  'Chronic pancreatitis'
-),
-(
   'Cirrhosis'
-),
-(
-  'Coma'
 ),
 (
   'Common cold'
