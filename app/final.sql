@@ -1,8 +1,9 @@
 CREATE DATABASE information_project;
 USE information_project;
 
+--TABLE for storing user info
 CREATE TABLE patient_info(
-  pat_id INT NOT NULL PRIMARY KEY,
+  pat_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(55),
   email VARCHAR(60),
   password VARCHAR(254),
@@ -10,9 +11,9 @@ CREATE TABLE patient_info(
   gender VARCHAR(8),
   dob DATE, --make seperate sql file to update age based on DATEDIFF(exp1,exp2) using dob
   ailments VARCHAR(255),  --provide an update button to only update ailments
-  FOREIGN KEY(pat_id) REFERENCES login_info(pat_id);
 );
 
+--TABLE for storing doctor_info
 CREATE TABLE doctor_info(
   doc_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(50),
@@ -26,6 +27,7 @@ CREATE TABLE doctor_info(
   email VARCHAR(50)
 );
 
+--TABLE for storing bookings
 CREATE TABLE bookings(
   booking_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   pat_id INT NOT NULL,
@@ -33,6 +35,7 @@ CREATE TABLE bookings(
   FOREIGN KEY(pat_id) REFERENCES patient_info(pat_id);
 );
 
+--Inserting doctors data
 INSERT INTO doctor_info(
   name,
   fee,
@@ -156,12 +159,26 @@ VALUES
 	'Male',
 	'akparmanu@gmail.com'
 );
-
+--disease table
+CREATE TABLE diseases(
+  dis_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  dis_name VARCHAR(55),
+  links VARCHAR(255)
+);
+--symptoms table
 CREATE TABLE symptoms(
   sym_id INT NOT NULL AUTO_INCREMENT,
   sym_desc VARCHAR(255)
 );
 
+--common table for symptoms and diseases
+CREATE TABLE symptoms_diseases(
+   sym_id INT NOT NULL AUTO_INCREMENT,
+   dis_id INT NOT NULL AUTO_INCREMENT,
+   FOREIGN KEY(sym_id) REFERENCES symptoms(sym_id),
+   FOREIGN KEY(dis_id) REFERENCES diseases(dis_id),
+   PRIMARY KEY(sym_id,dis_id)
+);
 --AML for Acute myleoid leukaemia
 --CML for Chronic Myleoid Luekaemia
 INSERT INTO symptoms(sym_desc) VALUES(
@@ -726,12 +743,10 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 (
   'bleeding from mouth' --Yellow fever
-)
-CREATE TABLE diseases(
-  dis_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  dis_name VARCHAR(55),
-  links VARCHAR(255)
 );
+
+--INSERTING DISEASES INTO TABLE diseases
+
 INSERT INTO diseases(dis_name) VALUES
 (
   'Abdominal Aortic aneurysm'
@@ -952,7 +967,6 @@ INSERT INTO diseases(dis_name) VALUES
 (
   'Neuroendocrine tumours'
 ),
-
 (
   'Obsessive Compulsive disorder'
 ),
@@ -1051,7 +1065,7 @@ INSERT INTO diseases(dis_name) VALUES
 ),
 (
   'Yellow fever'
-),
+);
 --symptoms batayega to disease aur disease se remedy
 -- A-14 , B-13, C-12, D-5, E-5, F-2, G-5, H-8, I-4, K-4, L-9, M-11, N-4, O-8, P-7, R-5,S-10, T-5, U-4, V-3, W-2, Y-1
 -- A-Y 141
