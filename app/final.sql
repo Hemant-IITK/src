@@ -174,7 +174,7 @@ CREATE TABLE symptoms(
 CREATE TABLE symptoms_diseases(
    sym_id INT,
    dis_id INT,
-   PRIMARY KEY(sym_id,dis_id),
+   -- PRIMARY KEY(sym_id,dis_id),
    FOREIGN KEY(sym_id) REFERENCES symptoms(sym_id),
    FOREIGN KEY(dis_id) REFERENCES diseases(dis_id)
 );
@@ -304,10 +304,7 @@ INSERT INTO diseases(dis_name) VALUES
   'Haemorrhoids(piles)'
 ),
 (
-  'Hepatits A'
-),
-(
-  'Hepatits B'
+  'Hepatitis B'
 ),
 (
   'Hepatitis C'
@@ -553,7 +550,7 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 
 (
-  'shortness of breath' -- Lung cancer,Mesothelioma,Oesophageal cancer,Tuberculosis,Ulcerative colitis,AML,Anaemia,Asthma,Bronchiectasis
+  'shortness of breath' -- Lung cancer,Mesothelioma,Oesophageal cancer,Tuberculosis,Ulcerative colitis,AML,Anaemia,Asthma,Bronchiectasis,Bronchitis
 ),
 (
   'memory loss' -- Brain tumours
@@ -576,7 +573,7 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 
 (
-  'depression' -- bulimia
+  'depression' -- bulimia,migraine
 ),
 
 (
@@ -624,7 +621,7 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'not passing urine for eight hours' -- Dehydration
 ),
 (
-  'personality or memory change' -- Dehydration
+  'personality or memory change' -- Depression
 ),
 (
   'sleep problems' -- Dehydration,Fibromyalgia
@@ -664,13 +661,13 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'loss of appetite' -- Cirrhosis,Hepatits B, Hepatitis C, Kidney Infection, Liver cancer, Lung cancer,measeles,Meningitis,mumps,Oesophageal cancer,stomach cancer,Diarrhoea 
 ),
 (
-  'frequent infections' -- neuroblastoma,AIDS,Sickle cell disease,AML,CML
+  'frequent infections' -- neuroblastoma,AIDS,Sickle cell disease,AML,CML,CLL
 ),
 (
   'a feeling of bloating' -- Irritable bowel syndrome, Lactose Intolerance,CML
 ),
 (
-  'swelling and discomfort in tummy' -- Irritable bowel syndrome, Liver cancer, Liver cancer,Cirrhosis
+  'swelling and discomfort in tummy' -- Irritable bowel syndrome, Liver cancer,Cirrhosis
 ),
 (
   'night sweats' -- Tuberculosis,Bone cancer,CML
@@ -685,7 +682,7 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'hoarse voice' -- Laryngitis,Common cold
 ),
 (
-  'blocked or running nose' -- common cold
+  'blocked or running nose' -- common cold,Bronchitis
 ),
 
 (
@@ -781,7 +778,7 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 (
   'loose motion (diarrhea)' -- Irritable bowel syndrome, Kaposi's sarcoma, Kidney Infection, Lactose Intolerance,malaria,Neuroendocrine tumours
-  ),
+),
 (
   'flatulence' -- Irritable bowel syndrome, Lactose Intolerance
 ),
@@ -873,7 +870,7 @@ INSERT INTO symptoms(sym_desc) VALUES(
   'lump in the neck' -- neuroblastoma
 ),
 (
-  'low blood sugar' -- Neuroendocrine tumours
+  'low blood sugar' -- Neuroendocrine tumours,Type 2 Diabetes
 ),  
 (
   'obsession' -- Obsessive Compulsive disorder
@@ -1066,4 +1063,1348 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 (
   'bleeding from mouth' -- Yellow fever
+),
+(
+  'blackheads' -- Acne
+),
+(
+  'pus-filled pimples' -- Acne
+),
+(
+  'coughing up thickened mucus' -- Bronchitis
 );
+
+INSERT INTO symptoms_diseases(
+  sym_id,
+  dis_id
+)
+VALUES
+(
+  1,
+  64
+),
+(
+  1,
+  80
+),
+(
+  1,
+  47
+),
+(
+  1,
+  19
+),
+(
+  2,
+  24
+),
+(
+  2,
+  49
+),
+(
+  2,
+  52
+),
+(
+  2,
+  53
+),
+(
+  2,
+  100
+),
+(
+  2,
+  105
+),
+(
+  3,
+  49
+),
+(
+  3,
+  55
+),
+(
+  3,
+  61
+),
+(
+  3,
+  75
+),
+(
+  3,
+  92
+),
+(
+  4,
+  60
+),
+(
+  4,
+  3
+),
+(
+  4,
+  82
+),
+(
+  4,
+  4
+),
+(
+  4,
+  10
+),
+(
+  5,
+  49
+),
+(
+  6,
+  56
+),
+(
+  6,
+  57
+),
+(
+  6,
+  20
+),
+(
+  6,
+  25
+),
+(
+  6,
+  62
+),
+(
+  7,
+  58
+),
+(
+  8,
+  3
+),
+(
+  8,
+  57
+),
+(
+  9,
+  14
+),
+(
+  9,
+  64
+),
+(
+  10,
+  100
+),
+(
+  10,
+  105
+),
+(
+  11,
+  41
+),
+(
+  11,
+  42
+),
+(
+  11,
+  47
+),
+(
+  11,
+  49
+),
+(
+  11,
+  55
+),
+(
+  11,
+  68
+),
+(
+  11,
+  95
+),
+(
+  12,
+  51
+),
+(
+  12,
+  55
+),
+(
+  12,
+  56
+),
+(
+  13,
+  4
+),
+(
+  13,
+  8
+),
+(
+  13,
+  11
+),
+(
+  13,
+  16
+),
+(
+  13,
+  17    
+),
+(
+  13,
+  56
+),
+(
+  13,
+  65
+),
+(
+  13,
+  75
+),
+(
+  13,
+  95
+),
+(
+  13,
+  99
+),
+(
+  14,
+  14
+),
+(
+  15,
+  53
+),
+(
+  16,
+  26
+),
+(
+  16,
+  53
+),
+(
+  16,
+  93
+),
+(
+  17,
+  71
+),
+(
+  18,
+  4
+),
+(
+  18,
+  5
+),
+(
+  18,
+  12
+),
+(
+  18,
+  19
+),
+(
+  18,
+  55
+),
+(
+  18,
+  56
+),
+(
+  18,
+  64
+),
+(
+  18,
+  67
+),
+(
+  18,
+  75
+),
+(
+  18,
+  92
+),
+(
+  18,
+  96
+),
+(
+  18,
+  104
+),
+(
+  19,
+  18
+),
+(
+  19,
+  63
+),
+(
+  20,
+  3
+),
+(
+  20,
+  61
+),
+(
+  20,
+  82
+),
+(
+  20,
+  105
+),
+(
+  21,
+  11
+),
+(
+  22,
+  105
+),
+(
+  23,
+  13
+),
+(
+  24,
+  13
+),
+(
+  25,
+  11
+),
+(
+  25,
+  20
+),
+(
+  25,
+  56
+),
+(
+  26,
+  17
+),
+(
+  26,
+  56
+),
+(
+  26,
+  65
+),
+(
+  26,
+  82
+),
+(
+  27,
+  52
+),
+(
+  27,
+  96
+),
+(
+  28,
+  50
+),
+(
+  28,
+  52
+),
+(
+  29,
+  52
+),
+(
+  30,
+  13
+),
+(
+  31,
+  14
+),
+(
+  31,
+  26
+),
+(
+  31,
+  64
+),
+(
+  31,
+  26
+),
+(
+  32,
+  26  
+),
+(
+  33,
+  27
+),
+(
+  34,
+  26
+),
+(
+  34,
+  35
+),
+(
+  35,
+  15
+),
+(
+  36,
+  15
+),
+(
+  37,
+  16
+),
+(
+  37,
+  49
+),
+(
+  37,
+  56
+),
+(
+  37,
+  82
+),
+(
+  38,
+  51
+),
+(
+  38,
+  57
+),
+(
+  39,
+  78
+),
+(
+  40,
+  19
+),
+(
+  41,
+  11
+),
+(
+  41,
+  82
+),
+(
+  42,
+  11
+),
+(
+  42,
+  20
+),
+(
+  42,
+  99
+),
+(
+  43,
+  21
+),
+(
+  44,
+  21
+),
+(
+  45,
+  24
+),
+(
+  45,
+  28
+),
+(
+  45,
+  41
+),
+(
+  45,
+  42
+),
+(
+  45,
+  51
+),
+(
+  45,
+  55
+),
+(
+  45,
+  56
+),
+(
+  45,
+  62
+),
+(
+  45,
+  64
+),
+(
+  45,
+  68
+),
+(
+  45,
+  75
+),
+(
+  45,
+  92
+),
+(
+  46,
+  3
+),
+(
+  46,
+  4
+),
+(
+  46,
+  22
+),
+(
+  46,
+  23
+),
+(
+  46,
+  71
+),
+(
+  46,
+  89
+),
+(
+  47,
+  22
+),
+(
+  47,
+  47
+),
+(
+  47,
+  54
+),
+(
+  48,
+  24
+),
+( 
+  48,
+  47
+),
+(
+  48,
+  55
+),
+(
+  49,
+  13
+),
+(
+  49,
+  22
+),
+(
+  49,
+  95
+),
+(
+  50,
+  7
+),
+(
+  50,
+  8
+),
+(
+  51,
+  24
+),
+(
+  52,
+  25
+),
+(
+  52,
+  57
+),
+(
+  53,
+  17
+),
+(
+  53,
+  25  
+),
+(
+  54,
+  26
+),
+(
+  55,
+  27
+),
+(
+  56,
+  27
+),
+(
+  57,
+  31
+),
+(
+  58,
+  27
+),
+(
+  59,
+  28
+),
+(
+  59,
+  34
+),
+(
+  59,
+  47
+),
+(
+  59,
+  49
+),
+(
+  59,
+  54
+),
+(
+  60,
+  29
+),
+(
+  61,
+  29  
+),
+(
+  62,
+  35
+),
+(
+  63,
+  31
+),
+(
+  64,
+  32
+),
+(
+  64,
+  96
+),
+(
+  65,
+  32
+),
+(
+  66,
+  32
+),
+(
+  67,
+  33
+),
+(
+  67,
+  52
+),
+(
+  67,
+  100
+),
+(
+  68,
+  33
+),
+(
+  68,
+  100
+),
+(
+  69,
+  19
+),
+(
+  70,
+  35
+),
+(
+  70,
+  63
+),
+(
+  71,
+  24
+),
+(
+  71,
+  36
+),
+(
+  71,
+  41
+),
+(
+  71,
+  55
+),
+(
+  71,
+  79
+),
+(
+  72,
+  37
+),
+(
+  72,
+  64
+),
+(
+  73,
+  38
+),
+(
+  73,
+  92
+),
+(
+  74,
+  38
+),
+(
+  75,
+  39
+),
+(
+  76,
+  39
+),
+(
+  77,
+  39
+),
+(
+  78,
+  40
+),
+(
+  79,
+  40
+),
+(
+  80,
+  7
+),
+(
+  80,
+  40
+),
+(
+  81,
+  22
+),
+(
+  81,
+  41
+),
+(
+  81,
+  42
+),
+(
+  81,
+  51
+),
+(
+  81,
+  61
+),
+(
+  81,
+  64
+),
+(
+  81,
+  65
+),
+(
+  81,
+  99
+),
+(
+  81,
+  104
+),
+(
+  81,
+  105
+),
+(
+  82,
+  41
+),
+(
+  83,
+  4 
+),
+(
+  83,
+  45
+),
+(
+  83,
+  63
+),
+(
+  83,
+  80
+),
+(
+  84,
+  49
+),
+(
+  84,
+  47
+),
+(
+  84,
+  51
+),
+(
+  84,
+  54
+),
+(
+  84,
+  61
+),
+(
+  84,
+  72
+),
+(
+  85,
+  47
+),
+(
+  85,
+  54
+),
+(
+  86,
+  50
+),
+(
+  87,
+  50
+),
+(
+  87,
+  51
+),
+(
+  87,
+  52
+),
+(
+  88,
+  53
+),
+(
+  89,
+  53
+),
+(
+  90,
+  58
+),
+(
+  91,
+  59
+),
+(
+  92,
+  59
+),
+(
+  93,
+  60
+),
+(
+  94,
+  6
+),
+(
+  94,
+  60
+),
+(
+  94,
+  91
+),
+(
+  95,
+  61
+),
+(
+  96,
+  62
+),
+(
+  97,
+  63
+),
+(
+  98,
+  63
+),
+(
+  99,
+  93
+),
+(
+  100,
+  64
+),
+(
+  101,
+  66
+),
+(
+  102,
+  66
+),
+(
+  103,
+  66
+),
+(
+  104,
+  66
+),
+(
+  104,
+  68
+),
+(
+  104,
+  93  
+),
+(
+  105,
+  66
+),
+(
+  106,
+  67
+),
+(
+  107,
+  67
+),
+(
+  108,
+  69
+),
+(
+  109,
+  69
+),
+(
+  110,
+  69
+),
+(
+  111,
+  69
+),
+(
+  112,
+  70
+),
+(
+  113,
+  69
+),
+(
+  114,
+  71
+),
+(
+  115,
+  72
+),
+(
+  115,
+  97
+),
+(
+  116,
+  73
+),
+(
+  117,
+  73
+),
+(
+  118,
+  74
+),
+(
+  119,
+  74
+),
+(
+  120,
+  75
+),
+(
+  120,
+  92
+),
+(
+  121,
+  76
+),
+(
+  122,
+  76
+),
+(
+  123,
+  77
+),
+(
+  124,
+  77
+),
+(
+  125,
+  78  
+),
+(
+  126,
+  78
+),
+(
+  127,
+  79
+),
+(
+  128,
+  79
+),
+(
+  129,
+  80
+),
+(
+  130,
+  80
+),
+(
+  131,
+  81
+),
+(
+  132,
+  81
+),
+(
+  133,
+  5
+),
+(
+  133,
+  20
+),
+(
+  133,
+  82
+),
+(
+  134,
+  5
+),
+(
+  135,
+  83
+),
+(
+  136,
+  83
+),
+(
+  137,
+  84
+),
+(
+  138,
+  85
+),
+(
+  139,
+  85
+),
+(
+  140,
+  85
+),
+(
+  141,
+  86
+),
+(
+  142,
+  86
+),
+(
+  143,
+  87
+),
+(
+  144,
+  87
+),
+(
+  145,
+  88
+),
+(
+  146,
+  88  
+),
+(
+  147,
+  88
+),
+(
+  148,
+  89
+),
+(
+  148,
+  92
+),
+(
+  149,
+  90
+),
+(
+  150,
+  90
+),
+(
+  151,
+  90
+),
+(
+  152,
+  91  
+),
+(
+  153,
+  91
+),
+(
+  154,
+  92
+),
+(
+  155,
+  93
+),
+(
+  156,
+  93
+),
+(
+  157,
+  94
+),
+(
+  158,
+  94
+),
+(
+  159,
+  95
+),
+(
+  160,
+  3
+),
+(
+  160,
+  95
+),
+(
+  161,
+  96
+),
+(
+  161,
+  97
+),
+(
+  162,
+  96
+),
+(
+  162,
+  97
+),
+(
+  163,
+  97
+),
+(
+  164,
+  96
+),
+(
+  165,
+  96
+),
+(
+  166,
+  97
+),
+(
+  167,
+  98
+),
+(
+  168,
+  98
+),
+(
+  169,
+  98
+),
+(
+  170,
+  6
+),
+(
+  170,
+  98
+),
+(
+  171,
+  101
+),
+(
+  172,
+  101
+),
+(
+  173,
+  102
+),
+(
+  174,
+  12
+),
+(
+  174,
+  102
+),
+(
+  175,
+  103
+),
+(
+  176,
+  103
+),
+(
+  177,
+  104
+),
+(
+  178,
+  104
+),
+(
+  179,
+  105
+),
+(
+  180,
+  2
+),
+(
+  181,
+  2
+),
+(
+  182,
+  17  
+);
+
