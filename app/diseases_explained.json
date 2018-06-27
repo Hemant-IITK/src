@@ -406,7 +406,6 @@
 			"Stop smoking."
 	]
 },
-
 {
 	"id" : 39,
 	"name" : "Gum disease",
@@ -426,7 +425,619 @@
 			"Practise a healthy lifestyle such as healthy eating and managing blood sugar if you have diabetes."
 	]
 },
+{
+	"id" : 40 ,
+	"name" : "Haemorrhoids (piles)",
+	"about" : "Haemorrhoids, also known as piles, are swellings containing enlarged blood vessels that are found inside or around the bottom (the rectum and anus).",
+	"symptoms" : [
+			"bleeding after passing a stool (the blood is usually bright red)",
+			"itchy bottom",
+			"a lump hanging down outside of the anus, which may need to be pushed back in after passing a stool",
+			"a mucus discharge after passing a stool",
+			"soreness, redness and swelling around your anus"
+	],
+	"treatment":"Haemorrhoids (piles) often clear up by themselves after a few days. However, there are many treatments that can reduce itching and discomfort.\nMaking simple dietary changes and not straining on the toilet are often recommended first.You should also drink plenty of water and avoid caffeine \n increase the amount of fibre in your diet",
+	"prevention" : [
+		"Eat high-fiber foods",
+		"Drink plenty of fluids",
+		"Consider fiber supplements: Most people don't get enough of the recommended amount of fiber — 25 grams a day for women and 38 grams a day for men — in their diet.\nfiber Supplements such as Metamucil and Citrucel, improve overall symptoms and bleeding from hemorrhoids. ",
+		"Don't strain",
+		"Go as soon as you feel the urge",
+		"Exercise Regularly",
+		"Avoid long periods of sitting"
 
+	]
+},
+{
+	"id" : 41,
+	"name" : "Hepatitis B",
+	"about" : "Hepatitis B is an infection of the liver caused by a virus that's spread through blood and body fluids.It often doesn't cause any obvious symptoms in\n adults and typically passes in a few months without treatment, but in children it often persists for years and may eventually cause serious liver damage.",
+	"symptoms" : [
+		"flu-like symptoms, including tiredness, a fever, and general aches and pains",
+		"loss of appetite",
+		"feeling and being sick",
+		"diarrhoea",
+		"tummy (abdominal) pain",
+		"yellowing of the skin and eyes (jaundice)"
+
+	],
+	"treatment":"Treatment for hepatitis B depends on how long you've been infected for:\nif you've been exposed to the virus in the last few days, emergency treatment can help stop you becoming infected\nif you've only had the infection for a few weeks or months (acute hepatitis B), you may only need treatment\n to relieve your symptoms while your body fights off the infection\nif you've had the infection for more than 6 months (chronic hepatitis B), you may be offered treatment with medicines that can keep the virus under control and reduce the risk of liver damage",
+	"prevention" : [
+		"The best way to prevent hepatitis B is to get vaccinated.The hepatitis B vaccine is usually given through three injections over six months.",
+		" Candidates for hepatitis B vaccination include the following groups of people:",
+			"All girls and boys from 0 to 18 years old "
+			"Anyone whose sex partner has chronic hepatitis B ",
+			"Men who have sex with men ",
+			"Someone who has been recently diagnosed with a sexually transmitted disease",
+			"People with multiple sex partners",
+			"Anyone who shoots drugs ",
+			"Someone who lives with a person with chronic hepatitis B ",
+			"People whose jobs expose them to human blood. "
+
+	]
+},
+{
+	"id" :42 ,
+	"name" : "",
+	"about" : "Hepatitis C is a virus that can infect the liver. If left untreated, it can sometimes cause serious and potentially life-threatening damage to the liver over many years.\nHowever, with modern treatments it's often possible to cure the infection and most people with it will have a normal life expectancy.\nYou can become infected with it if you come into contact with the blood of an infected person.",
+	"symptoms" : [
+		"flu-like symptoms, such as muscle aches and a high temperature (fever)",
+		"feeling tired all the time",
+		"loss of appetite",
+		"abdominal (tummy) pain",
+		"feeling and being sick"
+	],
+	"treatment":"Hepatitis C can be treated with a combination of medicines that stop the virus multiplying inside the body. These usually need to be taken for several months.\nMost people will take 2 main medications called pegylated interferon (a weekly injection) and ribavirin (a capsule or tablet), although newer tablet-only treatments \nare likely to replace the interferon injections for most people in the near future.",
+	"prevention" : [
+		"There's no vaccine for hepatitis C, but there are ways to reduce your risk of becoming infected, such as:",
+		"not sharing any drug-injecting equipment with other people – including needles and other equipment such as syringes, spoons and filters\n
+			not sharing razors or toothbrushes that might be contaminated with blood",
+		"The risk of getting hepatitis C through sex is very low. However, it may be higher if blood is present, such as menstrual blood or from minor bleeding during anal sex.",
+		"Condoms aren't usually necessary to prevent hepatitis C for long-term heterosexual couples, but it's a good idea to use them when having anal sex or sex with a new partner."
+			]
+},
+{
+	"id" : 43 ,
+	"name" : "",
+	"about" : "Huntington's disease is an inherited condition that damages certain nerve cells in the brain.\nThis brain damage gets progressively worse over time and can affect movement, cognition (perception, awareness, thinking, judgement) and behaviour.",
+	"symptoms" : [
+		"personality changes",
+		"mood swings",
+	 	"fidgety movements",
+		"irritability and altered behaviour",
+		"although these are often overlooked and attributed to something else."
+
+	],
+	"treatment":"There's no cure for Huntington's disease. Its progress can't be reversed or slowed down, although this is the goal of many research projects.\n 	 Some of the features of Huntington's disease can be managed with medication and therapies, which may be coordinated by specialist teams.\nTherapies, such as speech and language therapy and occupational therapy, can help with communication and day-to-day living.\nRegular exercise is also very important. People who are active tend to feel much better physically and mentally than those who don't exercise.",
+	"prevention" : [
+		"Huntington’s disease cannot be actually prevented. For people carrying mutated genes there is a 50% chance to have a child with this disease.",
+		" Because of that, doctors advise counseling for everyone who has a close family member suffering from Huntington’s.",
+		" Genetic counseling and blood tests could help these people to determine the presence of mutated gene responsible for this disease years before it shows any symptoms.",
+		"Parent carriers of the gene for Huntington’s disease could be advised to think about assisted reproduction and screening the embryos for gene mutation.",
+		" Another option for these parents may be adoption."
+	]
+},
+{
+	"id" : 44,
+	"name" : "",
+	"about" : "Hyperglycaemia is the medical term for a high blood sugar (glucose) level. It's a common problem for people with diabetes.\nIt can affect people with type 1 diabetes and type 2 diabetes, as well as pregnant women with gestational diabetes.\nIt can occasionally affect people who don't have diabetes, but usually only people who are seriously ill, such as those who have recently had a stroke or heart attack, or have a severe infection.\nHyperglycaemia shouldn't be confused with hypoglycaemia, which is when a person's blood sugar level drops too low.",
+	"symptoms" : [
+		"increased thirst and a dry mouth",
+		"needing to pee frequently",
+		"tiredness",
+		"blurred vision",
+		"unintentional weight loss",
+		"recurrent infections, such as thrush, bladder infections (cystitis) and skin infections"
+
+	],
+	"treatment":"change your diet – for example, you may be advised to avoid foods that cause your blood sugar levels to rise, such as cakes or sugary drinks \n drink plenty of sugar-free fluids – this can help if you're dehydrated \n exercise more often – gentle, regular exercise such as walking can often lower your blood sugar level, particularly if it helps you lose weight\nif you use insulin, adjust your dose – your care team can give you specific advice about how to do this",
+	"prevention" : [
+		"Be careful what you eat – be particularly aware of how snacking and eating sugary foods or carbohydrates can affect your blood sugar level.",
+		"Stick to your treatment plan – remember to take your insulin or other diabetes medications as recommended by your care team.",
+		"Be as active as possible – getting regular exercise can help stop your blood sugar level rising, but you should check with your doctor first if you're taking diabetes \n medication, as some medicines can lead to hypoglycaemia if you exercise too much",
+		"Take extra care when you're ill – your care team can provide you with some 'sick day rules' that outline what you can do to keep your blood sugar level\n under control during an illness.",
+		"Monitor your blood sugar level – your care team may suggest using a device to check your level at home, so you can spot an increase early and take steps to stop it."
+	]
+},
+{
+	"id" : 45 ,
+	"name" : "",
+	"about" : "Hyperhidrosis is a common condition in which a person sweats excessively.\nThe sweating may affect the whole of your body, or it may only affect certain areas.\n Commonly affected areas include armpits, palms of your hands, soles of your feet, face and chest, groin\nBoth sides of the body are usually affected equally – for example, both feet or both hands.\n The sweating doesn't usually pose a serious threat to your health, but it can be embarrassing and distressing.\n It can also have a negative impact on your quality of life and may lead to feelings of depression and anxiety.",
+	"symptoms" : [
+
+	],
+	"treatment":"Hyperhidrosis can be challenging to treat and it may take a while to find the best treatment for you. Less invasive treatments will usually be recommended first.\n Stronger antiperspirants: If a regular antiperspirant doesn't control your sweating, your GP may prescribe or suggest a stronger one for you.\nAntiperspirant containing aluminium chloride is often used to treat hyperhidrosis. This works by plugging the sweat glands..\nSurgery and other procedures: In a few cases where hyperhidrosis is particularly severe and treatment hasn't been successful, surgery may be recommended.",
+	"prevention" : [
+		"The advice below may help.",
+		"Avoid triggers that you know make your sweating worse, such as spicy foods and alcohol",
+		"Use antiperspirant frequently, rather than deodorant",
+		"Avoid wearing tight, restrictive clothing and man-made fibres, such as nylon",
+		"Wearing black or white clothing can minimise signs of sweating",
+		"Armpit shields can absorb excessive sweat and protect your clothes"
+	]
+},
+{
+	"id" : 46,
+	"name" : "Hypoglycaemia (low blood sugar) ",
+	"about" : "Hypoglycaemia, or a 'hypo', is an abnormally low level of glucose in your blood (less than four millimoles per litre).\nWhen your glucose (sugar) level is too low, your body doesn't have enough energy to carry out its activities.\nHypoglycaemia is most commonly associated with diabetes, and mainly occurs if someone with diabetes takes too much insulin, misses a meal or exercises too hard.",
+	"symptoms" : [
+		"Typical early warning signs are feeling hungry",
+		" trembling or shakiness",
+		 "and sweating",
+		 "difficulty in concentrating.",
+		 " In very severe cases, a person experiencing hypoglycaemia can lose consciousness.",
+		 "It's also possible for hypoglycaemia to occur during sleep, which can cause excess sweating, disturbed sleep, and feeling tired and confused upon waking."
+	],
+	"treatment":"Treatment of hypoglycemia involves:\nImmediate initial treatment to raise your blood sugar level\nTreatment of the underlying condition that's causing your hypoglycemia to prevent it from recurring",
+	"prevention" : [
+		"If you have diabetes, sticking to your medication plan and eating regular meals can help prevent hypoglycaemia.",
+		"t's also important to monitor your blood glucose levels.",
+		"As hypoglycaemia can develop suddenly, it's important to be aware of the symptoms of hypoglycaemia so you can treat it quickly. ",
+		"People with diabetes are advised to carry a form of identification with them that states their condition so they can be helped quickly and efficiently."
+	]
+},
+{
+	"id" :47 ,
+	"name" : "Irritable bowel syndrome (IBS) ",
+	"about" : "Irritable bowel syndrome (IBS) is a common, long-term condition of the digestive system. It can cause bouts of stomach cramps, bloating, diarrhoea and/or constipation.\nIBS is thought to affect up to 1 in 5 people at some point in their life, and it usually first develops when a person is between 20 and 30 years of age.",
+	"symptoms" : [
+		"abdominal (stomach) pain and cramping, which may be relieved by having a poo",
+		"a change in your bowel habits – such as diarrhoea, constipation or sometimes both",
+		"bloating and swelling of your stomach",
+		"excessive wind (flatulence)",
+		"occasionally experiencing an urgent need to go to the toilet",
+		"a feeling that you haven't fully emptied your bowels after going to the toilet",
+		"passing mucus from your bottom "
+	],
+	"treatment":"The symptoms of irritable bowel syndrome (IBS) can often be managed by changing your diet and lifestyle\n, and understanding the nature of the condition.\nA number of different medications can be used to help treat IBS, including:\nantispasmodics – which help reduce abdominal (stomach) pain and cramping\nlaxatives – which can help relieve constipation\nantimotility medicines – which can help relieve diarrhoeas",
+	"prevention" : [
+		"Cut Out The Fat",
+		"Beware Of Spicy Foods, Bubble Gums, Candies",
+		"Avoid Coffee",
+		"Reconsider Alcohol",
+		"Put Out That Cigarette",
+
+	]
+},
+{
+	"id" : 48,
+	"name" : "Impetigo",
+	"about" : "Impetigo is a common and highly contagious skin infection that causes sores and blisters. \nIt's not usually serious and often improves within a week of treatment or within a few weeks without treatment.",
+	"symptoms" : [
+		"Classic signs and symptoms of impetigo involve red sores that quickly rupture, ooze for a few days and then form a yellowish-brown crust\n. The sores usually occur around the nose and mouth but can be spread to other areas of the body by fingers, clothing and towels\n. Itching and soreness are generally mild."
+	],
+	"treatment":"Impetigo typically is treated with an antibiotic ointment or cream that you apply directly to the sores.If you have more than just a few impetigo sores,\n your doctor might recommend antibiotic drugs that can be taken by mouth. Be sure to finish the entire course of medication even if the sores are healed.\n This helps prevent the infection from recurring and makes antibiotic resistance less likely. ",
+	"prevention" : [
+		"Maintaing a Good hygiene goes a long way toward preventing infections of all kinds. Frequent hand washing or the use of hand sanitizer will prevent the spread of infections.",
+		"Any cuts or scrapes should be thoroughly cleaned and treated with over-the-counter, antibiotic cream.",
+		"Never share towels, wash clothes, razors or other personal items with anyone, even family members.",
+		"If someone already has impetigo they need to use a clean wash cloths and towels each time they clean or touch lesions."
+	]
+},
+{
+	"id" : 49,
+	"name" : "Kaposi's sarcoma",
+	"about" : "Kaposi's sarcoma is a rare type of cancer caused by a virus. It can affect the skin and internal organs.\nIt's mainly seen in people with a poorly controlled or severe HIV infection. It can also affect some people who have a\n weakened immune system for another reason, as well as people who have a genetic vulnerability to the virus.",
+	"symptoms" : [
+		"uncomfortable swelling in the arms or legs (lymphoedema)",
+		"breathlessness, coughing up blood and chest pain",
+		"nausea, vomiting, stomach pain and diarrhoea"
+	],
+	"treatment":"Four kinds of treatment generally are used to treat patients with Kaposi's sarcoma:\nSurgery to remove the cancer\nChemotherapy, using drugs to kill cancer cells\nRadiation therapy, using high-dose X-rays to kill cancer cells\nBiological therapy, using the body's immune system to fight cancer",
+	"prevention" : [
+		"There is no way to prevent Kaposi sarcoma. But there are things you can do that might lower your risk for it.",
+		"Since HIV can be spread through sex, avoid unprotected sex with people infected with HIV",
+		"Another way to lower the risk of getting HIV is to take a pill every day that contains ant-viral drugs"
+	]
+},
+{
+	"id" : 50 ,
+	"name" : "Kidney cancer",
+	"about" : "Kidney cancer is the eighth most common cancer in adults in the UK, with just over 10,100 people diagnosed each year.",
+	"symptoms" : [
+		"blood in your urine",
+		"a constant pain in your side, just below the ribs",
+		"a lump or swelling in the kidney area (on either side of the body)"
+	],
+	"treatment":"Unlike most other cancers, chemotherapy isn't very effective at treating kidney cancer. However, non-surgical treatments are available,\n such as radiotherapy or targeted therapies. These are most commonly used in the more advanced stages of kidney cancer, when the cancer\n has spread beyond the kidney.",
+	"prevention" : [
+		"As the causes of kidney cancer aren't fully understood, it's not possible to fully prevent it.",
+		"However, leading a healthy lifestyle may reduce the chances of developing the condition.",
+		".A combination of a healthy diet and regular exercise will help to avoid becoming overweight or obese, which is a significant risk factor for kidney cancer.",
+		"If you're overweight or obese, you can lose weight and maintain a healthy weight by combining regular exercise with a calorie-controlled diet."
+	]
+},
+{
+	"id" : 51,
+	"name" : "kidney infection",
+	"about" : "A kidney infection (pyelonephritis) is a painful and unpleasant illness caused by bacteria travelling from your bladder into one or both of your kidneys.",
+	"symptoms" : [
+		"pain and discomfort in your side, lower back or around your genitals",
+		"high temperature (it may reach 39.5C or 103.1F)",
+		"shivering or chills",
+		"feeling very weak or tired",
+		"loss of appetite",
+		"feeling sick or being sick ",
+		"diarrhoea"
+	],
+	"treatment":"Most people with a kidney infection can be treated at home with a course of antibiotics, and possibly painkillers as well.",
+	"prevention" : [
+		"The best way to prevent a kidney infection is to keep your bladder and urethra free from bacteria.",
+		"Drink plenty of liquids",
+		"Be careful with contraceptives",
+		"Treat constipation",
+		"go to the toilet as soon as you feel the need to urinate, rather than holding it in",
+	]
+},
+{
+	"id" : 52,
+	"name" : "Kidney stones",
+	"about" : "Kidney stones can develop in one or both kidneys and most often affect people aged 30 to 60.\nThey're quite common, with around three in 20 men and up to two in 20 women developing them at some stage of their lives.\nThe medical term for kidney stones is nephrolithiasis, and if they cause severe pain it's known as renal colic.",
+	"symptoms" : [
+		"Very small kidney stones are unlikely to cause many symptoms. It may even go undetected and pass out painlessly when you urinate.",
+		"a persistent ache in the lower back, which is sometimes also felt in the groin",
+		"feeling restless and unable to lie still",
+		"nausea (feeling sick)",
+		"needing to urinate more often than normal",
+		"pain when you urinate (dysuria)",
+		"blood in your urine (haematuria) "
+
+	],
+	"treatment":"Most kidney stones are small enough (less than 4mm in diameter) to be passed out in your urine and can probably be treated at home.\nMedication can also be injected to treat the symptoms of nausea (feeling sick) and vomiting. This is called an anti-emetic (anti-sickness) medication.\nIf a kidney stone is too big to be passed naturally – 6-7mm in diameter or larger – you may need treatment to remove it another way.\n This could include:\nextracorporeal shock wave lithotripsy (ESWL)\nureteroscopy\npercutaneous nephrolithotomy (PCNL)\nopen surgery",
+	"prevention" : [
+		"Prevention of kidney stones may include a combination of lifestyle changes and medications.",
+		"Drink water throughout the day",
+		"Eat fewer oxalate-rich foods",
+		"Choose a diet low in salt and animal protein",
+		"Medications can control the amount of minerals and salts in your urine and may be helpful in people who form certain kinds of stones. "
+	]
+},
+{
+	"id" : 53,
+	"name" : "Labyrinthitis",
+	"about" : "Labyrinthitis is an inner ear infection. It causes a delicate structure deep inside your ear called the labyrinth to become inflamed, affecting your hearing and balance.",
+	"symptoms" : [
+		"dizziness",
+		"hearing loss",
+		"vertigo – the sensation that you, or the environment around you, is moving.",
+		"a feeling of pressure inside your ear(s)"
+
+	],
+	"treatment":"Labyrinthitis is usually treated using a combination of self-help techniques and medication. Chronic labyrinthitis may be treated with\n vestibular rehabilitation therapy (VRT)",
+	"prevention" : [
+		"Avoid cigarette exposure",
+		"Avoid excessive alcohol intake",
+		"Avoid injuring the ea",
+		"Take care if you have a colds, sinusitis or flu"
+	]
+},
+{
+	"id" : 54 ,
+	"name" : "Lactose intolerance",
+	"about" : "Lactose intolerance is a common digestive problem where the body is unable to digest lactose, a type of sugar mainly found in milk and dairy products.",
+	"symptoms" : [
+		"flatulence (wind)",
+		"diarrhoea",
+		"bloated stomach",
+		"stomach cramps and pains",
+		"stomach rumbling",
+		"feeling sick"
+	],
+	"treatment":"There's no cure for lactose intolerance, but most people are able to control their symptoms by making changes to their diet.\nSome cases of lactose intolerance, such as those caused by gastroenteritis, are only temporary and will improve within a few days or weeks.\n Other cases, such as those caused by an inherited genetic fault or a long-term underlying condition, are likely to be lifelong.",
+	"prevention" : [
+
+	]
+},
+{
+	"id" : 55 ,
+	"name" : "Liver Cancer",
+	"about" : "Primary liver cancer is an uncommon but serious type of cancer that begins in the liver.\nThis is a separate condition from secondary liver cancer, which occurs when cancer that first develops in another part of the body spreads to the liver.",
+	"symptoms" : [
+		"unexplained weight loss",
+		"loss of appetite",
+		"feeling very full after eating, even if the meal was small",
+		"feeling sick and vomiting",
+		"pain or swelling in your abdomen (tummy)",
+		"jaundice (yellowing of your skin and the whites of your eyes)",
+		"itchy skin",
+		"feeling very tired and weak"
+	],
+	"treatment":"The treatment for liver cancer depends on the stage of the condition. Treatment can include surgery and medication.\nIf your cancer is at stage A when diagnosed, a complete cure may be possible. \nIf your cancer is at stage B or C, a cure is not usually possible. However, chemotherapy can slow the progression of the cancer,\n relieve symptoms, and prolong life for months or, in some cases, years\nIf your cancer is at stage D when diagnosed, it is usually too late to slow down the spread of the cancer.\n Instead, treatment focuses on relieving any symptoms of pain and discomfort you may have..",
+	"prevention" : [
+		"Protect against Hepatitis B and C Infection",
+		"follow a healthy lifestyle",
+		"excercise Regularly",
+		"eat a healthy diet",
+		"controll your weight"
+	]
+},
+{
+	"id" : 56,
+	"name" : "Lung cancer",
+	"about" : "Lung cancer is one of the most common and serious types of cancer. Around 44,500 people are diagnosed with the condition every year in the UK.\nCancer that begins in the lungs is called primary lung cancer.\n Cancer that spreads from the lungs to another place in the body is known as secondary lung cancer",
+	"symptoms" : [
+		"a persistent cough",
+		"coughing up blood",
+		"persistent breathlessness",
+		"unexplained tiredness and weight loss",
+		"an ache or pain when breathing or coughing"
+	],
+	"treatment":"Treatment for lung cancer is carried out by a team of specialists who will work together to provide the best possible treatment.\nThe type of treatment you'll receive for lung cancer depends on several factors, including:\nthe type of lung cancer you have (non-small-cell or small-cell cancer)\nthe size and position of the cancer\nhow far advanced your cancer is (the stage)\nyour overall health",
+	"prevention" : [
+		"excercise Regularly",
+		"eat a healthy diet",,"if you smoke then QUIT SMOKING NOW!"
+	]
+},
+{
+	"id" : 57,
+	"name" : "Laryngitis",
+	"about" : "Laryngitis is inflammation of the larynx (voice box). In most cases, it gets better without treatment in about a week.",
+	"symptoms" : [
+		"oarseness",
+		"difficulty speaking",
+		"sore throat",
+		"mild fever",
+		"irritating cough",
+		"a constant need to clear your throat"
+	],
+	"treatment":"In most cases, laryngitis gets better within a week without treatment.\nYou may be able to help your recovery by:\nnot smoking and avoiding smoky, dry or dusty environments\navoiding dehydration by taking plenty fluids\ngargling with a mouthwash of warm, salty water or an over-the-counter solution, or sucking lozenges",
+	"prevention" : [
+		"Avoid prolonged shouting or screaming.",
+		"If you feel any vocal strain, immediately discontinue the vocally abusive behaviors",
+		"if symptoms persist more than two weeks, they should seek professional help for the voice dysfunction"
+	]
+},
+{
+	"id" : 58,
+	"name" : "Lyme disease",
+	"about" : "Lyme disease, or Lyme borreliosis, is a bacterial infection spread to humans by infected ticks.\nTicks are tiny spider-like creatures found in woodland and heath areas. They feed on the blood of birds and mammals, including humans.\n Ticks that carry the bacteria responsible for Lyme disease are found throughout the UK and in other parts of Europe and North America.",
+	"symptoms" : [
+		"Headache",
+		"Stiff neck",
+		"Aches and pains in muscles and joints",
+		"Low-grade fever and chills",
+		"Fatigue",
+		"Poor appetite",
+		"Swollen glands"
+	],
+	"treatment":"If you develop symptoms of Lyme disease, you will normally be given a course of antibiotic tablets, capsules or liquid. \nMost people will require a two- to four-week course, depending on the stage of the condition.\nIf you are prescribed antibiotics, it's important you finish the course even if you are feeling better, because this will help ensure all the\n bacteria are killed.",
+	"prevention" : [
+		"keeping to footpaths and avoiding long grass when out walking",
+"wearing appropriate clothing in tick-infested areas (a long-sleeved shirt and trousers tucked into your socks)",
+"wearing light-coloured fabrics that may help you spot a tick on your clothes",
+"using insect repellent on exposed skin",
+"inspecting your skin for ticks, particularly at the end of the day, including your head, neck and skin folds (armpits, groin, and waistband) –\n remove any ticks you find promptly",
+"checking your children's head and neck areas, including their scalp"
+	]
+},
+{
+	"id" : 59,
+	"name" : "",
+	"about" : "Lymphoedema is a chronic (long-term) condition that causes swelling in the body's tissues. It can affect any part of the body, but usually develops in the arms or legs.\nLymphoedema can get worse if it's not treated, so you should speak to a doctor if you think you may have the condition.",
+	"symptoms" : [
+		"an aching, heavy feeling",
+"difficulty with movement",
+"repeated skin infections",
+"the skin becoming hard and tight",
+"folds developing in the skin",
+"wart-like growths developing on the skin",
+"a leakage of fluid through the skin"
+	],
+	"treatment":"The recommended treatment for lymphoedema is decongestive lymphatic therapy (DLT).\nDLT is not a cure for lymphoedema, but it can help control the symptoms. Although it takes time and effort, the treatment\n can be used to effectively control your lymphoedema.",
+	"prevention" : [
+		"It’s not possible to completely prevent lymphoedema, but the following steps may help reduce your chances of developing the condition.",
+		"not having injections or blood pressure readings in the affected area whenever possible",
+		"treating cuts and scratches immediately with an antiseptic cream",
+		"using insect repellents to prevent insect bites",
+		"not wearing tight-fitting clothes or jewellery ",
+		"cutting your nails with nail clippers"
+	]
+},
+{
+	"id" : 60,
+	"name" : "Lupus",
+	"about" : "Lupus is a complex and poorly understood condition that affects many parts of the body and causes symptoms ranging from mild to life-threatening.",
+	"symptoms" : [
+		"fatigue (extreme tiredness)",
+		"rashes – particularly on the face, wrists and hands",
+		"joint pain and swelling"
+	],
+	"treatment":"There is currently no cure for systemic lupus erythematosus (SLE), but treatments that can ease the symptoms and make it easier to live with are available.\nIn most cases, treatment will involve a combination of self-care measures and medication.",
+	"prevention" : [
+		"Sun care - use sunscreen with an SPF of at least 15 that can block both UVA and UVB rays ",
+		"Diet - eat a nutritious and well-balanced diet with limited sugar and salt intake if on corticosteroids. There is some evidence that fish has \nanti-inflammatory properties, but alfalfa sprouts may increase inflammation ",
+		"Pain management - apply moist heat to painful joints or soak in a hot tub or Jacuzzi ",
+		"Exercise - low-impact walking, swimming, aerobics and cycling may help prevent muscle atrophy and lower the risk of osteoporosis"
+	]
+},
+{
+	"id" : 61,
+	"name" : "Malaria",
+	"about" : "Malaria is a serious tropical disease spread by mosquitoes. If it isn't diagnosed and treated promptly, it can be fatal.\nA single mosquito bite is all it takes for someone to become infected",
+	"symptoms" : [
+		"a high temperature (fever)",
+		"sweats and chills",
+		"headaches",
+		"vomiting",
+		"muscle pains",
+		"diarrhoea"
+
+	],
+	"treatment":"If malaria is diagnosed and treated promptly, virtually everyone will make a full recovery. Treatment should be started as soon as the\n diagnosis has been confirmed.\nAntimalarial medication is used to both treat and prevent malaria.\nIn some cases, you may be prescribed emergency standby treatment for malaria before you travel. This is usually if there's a\n risk of you becoming infected with malaria while travelling in a remote area with little or no access to medical care.",
+	"prevention" : [
+		"Awareness of risk – find out whether you're at risk of getting malaria before travelling",
+		"Bite prevention – avoid mosquito bites by using insect repellent, covering your arms and legs, and using an insecticide-treated mosquito net",
+		"Check whether you need to take malaria prevention tablets – if you do, make sure you take the right antimalarial tablets at the right dose, and finish the course",
+		"Diagnosis – seek immediate medical advice if you develop malaria symptoms, as long as up to a year after you return from travelling"
+	]
+},
+{
+	"id" :62 ,
+	"name" : "",
+	"about" : "Measles is a highly infectious viral illness that can be very unpleasant and sometimes lead to serious complications.\nAnyone can get measles if they haven't been vaccinated or they haven't had it before, although it's most common in young children.",
+	"symptoms" : [
+		"cold-like symptoms, such as a runny nose, sneezing, and a cough",
+		"sore, red eyes that may be sensitive to light",
+		"a high temperature (fever), which may reach around 40C (104F)",
+		"small greyish-white spots on the inside of the cheeks"
+	],
+	"treatment":"There's no specific treatment for measles, but the condition usually improves within 7 to 10 days.\nStay away from work or school for at least four days from when the measles rash first appears to reduce the risk of spreading the infection.",
+	"prevention" : [
+		"You can avoid catching measles by having the measles, mumps and rubella (MMR) vaccine.",
+		"If the MMR vaccine isn't suitable for you, a treatment called human normal immunoglobulin (HNIG) can be used if you're at immediate risk of catching measles.",
+		"You should also try to avoid contact with people who are more vulnerable to the infection, such as young children and pregnant women."
+	]
+},
+{
+	"id" : 63,
+	"name" : "",
+	"about" : "A migraine is usually a moderate or severe headache felt as a throbbing pain on one side of the head.\nMany people also have symptoms such as nausea, vomiting and increased sensitivity to light or sound.\nMigraine is a common health condition, affecting around one in every five women and around one in every 15 men. They usually begin in early adulthood.",
+	"symptoms" : [
+		"an intense headache on one side of the head.",
+		"In some cases, the pain can occur on both sides of your head and may affect your face or neck",
+		"nausea",
+		"vomiting",
+		"increased sensitivity to light and sound",
+		"sweating",
+		"poor concentration",
+		"feeling very hot or very cold",
+		"abdominal (tummy) pain",
+		"diarrhoea"
+
+	],
+	"treatment":"There's currently no cure for migraines, although a number of treatments are available to help ease the symptoms.\nIt may take time to work out the best treatment for you. You may need to try different types or combinations of medicines before you\n find the most effective ones.",
+	"prevention" : [
+		"It’s important to learn to spot the signs and triggers of your migraine to help prevent them. The easiest way of doing this\n is by keeping a diary about your migraines.",
+		"Keeping active by doing 30 minutes of exercise of moderate intensity on five or more days a week may also help prevent migraines."
+	]
+},
+{
+	"id" : 64,
+	"name" : "Meningitis",
+	"about" : "Meningitis is an infection of the protective membranes that surround the brain and spinal cord (meninges).\nIt can affect anyone, but is most common in babies, young children, teenagers and young adults.\nMeningitis can be very serious if not treated quickly. It can cause life-threatening blood poisoning (septicaemia) and result in permanent damage \nto the brain or nerves.",
+	"symptoms" : [
+		"a high temperature (fever) over 37.5C (99.5F)",
+		"being sick",
+		"a headache",
+		"a blotchy rash that doesn't fade when a glass is rolled over it (this won't always develop)",
+		"a stiff neck",
+		"a dislike of bright lights",
+		"drowsiness or unresponsiveness",
+		"seizures (fits)"
+	],
+	"treatment":"People with suspected meningitis will usually need to have tests in hospital and may need to stay in hospital for treatment.\nTreatment in hospital is recommended in all cases of bacterial meningitis, as the condition can cause serious problems and requires close monitoring.\nSevere viral meningitis may also be treated in hospital.\nYou'll usually be able to go home from hospital if you or your child has mild meningitis and tests show it's being caused by a viral infection.",
+	"prevention" : [
+		"Meningitis can be caused by a number of different infections, so several vaccinations offer some protection against it.Some Of Them Are:",
+		"Meningitis B vaccine",
+		"5-in-1 vaccine - offers protection against diphtheria, tetanus, whooping cough, polio, and Haemophilus influenzae type b (Hib).",
+		"Pneumococcal vaccine - offers protection against serious infections caused by pneumococcal bacteria, including meningitis."
+		"Hib/Men C vaccine",
+		"MMR vaccine",
+		"Meningitis ACWY vaccine"
+	]
+},
+{
+	"id" :65 ,
+	"name" : "",
+	"about" : "Mesothelioma is a type of cancer that develops in the lining that covers the outer surface of some of the body's organs. It's\n usually linked to asbestos exposure.\nMesothelioma mainly affects the lining of the lungs (pleural mesothelioma), although it can also affect the lining of the tummy \n(peritoneal mesothelioma), heart or testicles.",
+	"symptoms" : [
+		"chest pain",
+"shortness of breath",
+"fatigue (extreme tiredness)",
+"a high temperature (fever) and sweating, particularly at night",
+"persistent cough",
+"loss of appetite and unexplained weight loss",
+"clubbed (swollen) fingertips",
+"tummy pain or swelling",
+"feeling of being sick",
+"diarrhoea or constipation"
+
+	],
+	"treatment":"The best treatment for mesothelioma depends on several factors, including how far the cancer has spread and your general health.\nAs mesothelioma is often diagnosed at an advanced stage, treatment is usually focused on controlling the symptoms and \nprolonging life for as long as possible. This is known as palliative or supportive care.\nPossible treatment include Chemotherapy, RadioThearpy, Surgery",
+	"prevention" : [
+		"Don’t smoke, and if you do, quit.",
+		"Workers who are concerned about asbestos exposure in the workplace should discuss the situation with their employers.",
+		"If you have a history of asbestos exposure, you are at increased risk for the disease. Talk to your doctor about early screening",
+		"If you suspect that there is asbestos in your home, hire a professional asbestos contractor for an analysis and any repair work.\nNever drill, hammer, cut or move any item that may contain asbestos, such as floor or ceiling tiles. "
+	]
+},
+{
+	"id" : 66,
+	"name" : "Motor neurone disease (MND)",
+	"about" : "Motor neurone disease is a rare condition that progressively damages parts of the nervous system. This leads to muscle \nweakness, often with visible wasting.\nMotor neurone disease, also known as amyotrophic lateral sclerosis (ALS), occurs when specialist nerve cells in the brain and spinal cord\n called motor neurones stop working properly. This is known as neurodegeneration.",
+	"symptoms" : [
+		"a weakened grip, which can cause difficulty picking up or holding objects",
+		"weakness at the shoulder that makes lifting the arm difficult",
+		"a 'foot drop' caused by weak ankle muscles",
+		"dragging of the leg",
+		"slurred speech (dysarthria)"
+	],
+	"treatment":"There's currently no cure for motor neurone disease. Treatment aims to:\nmake the person feel comfortable and have the best quality of life possible\ncompensate for the progressive loss of bodily functions such as mobility, communication, swallowing and breathing",
+	"prevention" : [
+		" Your best chance to prevent the condition is by removing as much as toxins in your environment as possible",
+		"improving your hygiene",
+		"adopt a healthy lifestyle. "
+	]
+},
+{
+	"id" :67 ,
+	"name" : "Mouth cancer",
+	"about" : "Mouth cancer, also known as oral cancer, is where a tumour develops on the surface of the tongue, mouth, lips or gums.\nTumours can also occur in the salivary glands, tonsils and the pharynx (the part of the throat from your mouth to your windpipe) but these are less common.",
+	"symptoms" : [
+		"red or white patches on the lining of your mouth or tongue",
+		"ulcers",
+		"a lump"
+	],
+	"treatment":"There are three main treatment options for mouth cancer. They are:\nsurgery – where the cancerous cells are surgically removed and, in some cases, some of the surrounding tissue\nchemotherapy – where powerful medications are used to kill cancerous cells\nradiotherapy – where high energy X-rays are used to kill cancerous cells\nThese treatments are often used in combination.",
+	"prevention" : [
+		"QUIT SMOKING NOW!",
+		"keeping to the recommended weekly limits for alcohol consumption (21 units for men and 14 units for women",
+		"eating a 'Mediterranean-style diet', with plenty of fresh vegetables (particularly tomatoes), citrus fruits, olive oil and fish (read more about healthy eating)"
+	]
+},
+{
+	"id" : 68,
+	"name" : "Mumps",
+	"about" : "Mumps is a contagious viral infection that used to be common in children before the introduction of the MMR vaccine.\nIt’s most recognisable by the painful swellings at the side of the face under the ears (the parotid glands), giving a person with mumps a distinctive\n 'hamster face' appearance.",
+	"symptoms" : [
+		"headache",
+		"joint pain",
+		"feeling sick",
+		"dry mouth",
+		"mild abdominal pain",
+		"feeling tired",
+		"loss of appetite",
+		"a high temperature (fever) of 38C (100.4F), or above"
+	],
+	"treatment":"Treatment for mumps is focused on relieving symptoms until your body’s immune system fights off the infection. There are currently no medications to\n treat the mumps virus.\nThe infection usually passes within a week or two.",
+	"prevention" : [
+		"get plenty of bed rest until your symptoms have passed",
+		"take over-the-counter painkillers, such as ibuprofen or paracetamol, to relieve any pain (children aged 16 or under should not be given aspirin)",
+		"drink plenty of fluids, but avoid acidic drinks such as fruit juice as these can irritate your parotid glands; water is usually the best fluid to drink",
+		"apply a warm or cool compress to your swollen glands to help reduce any pain",
+		"eat foods that don't require a lot of chewing, such as soup, mashed potatoes and scrambled eggs"
+	]
+},
+{
+	"id" : 69,
+	"name" : "Ménière's disease",
+	"about" : "Ménière's disease is a rare disorder that affects the inner ear. It can cause vertigo, tinnitus, hearing loss, and a feeling of pressure deep inside the ear.\nPeople with Ménière's disease usually experience some or all of these symptoms during sudden attacks, which typically last around two to three hours,\n although it can take a day or two for the symptoms to disappear completely.",
+	"symptoms" : [
+		"The symptoms of Ménière's disease vary from person to person. They often begin as sudden attacks, lasting for a few hours. Some people may \nexperience several attacks each week or they may be separated by weeks, months or even years.",
+		"vertigo – the sensation that you, or the environment around you, is moving or spinning",
+		"tinnitus – hearing sounds from inside your body, rather than from an outside source",
+		"hearing loss, with a particular difficulty hearing deep or low sounds",
+		"a sense of pressure or fullness deep inside the ear"
+
+	],
+	"treatment":"Treatment can usually help to control the symptoms of Ménière's disease, although there's currently no cure.\nYour ear, nose and throat (ENT) specialist and your GP can help you manage your symptoms. Possible treatments include:\ndietary advice – particularly a low-salt diet\nmedication to treat and prevent attacks\ntreatment for tinnitus\ntreatment for hearing loss\ntreatment called vestibular rehabilitation to cope with balance problems\ntreatment for stress, anxiety and\ndepression\nsurgery",
+	"prevention" : [
+		"Since head injury can be a causative factor, wear a helmet while riding a bike, motorcycle, etc.",
+		"Ear infections, if any, should be promptly treated.",
+		"Avoid salt, caffeine, tobacco and alcohol.",
+		"Take steps to ensure that you reduce the amount of emotional stress you take on."
+	]
+},
 
 //70-105
 
