@@ -1072,6 +1072,12 @@ INSERT INTO symptoms(sym_desc) VALUES(
 ),
 (
   'coughing up thickened mucus' -- Bronchitis
+),
+(
+  'Involuntary jerking or writhing movements (chorea)' -- Huntington's disease
+),
+(
+  'Impaired gait, posture and balance' -- Huntignation's disease
 );
 
 INSERT INTO symptoms_diseases(
@@ -2406,5 +2412,13 @@ VALUES
 (
   182,
   17  
+),
+(
+  183,
+  43
+),
+(
+  184,
+  43
 );
-
+  
