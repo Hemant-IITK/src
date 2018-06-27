@@ -1,0 +1,1106 @@
+{
+	"id" : 20,
+	"name" : "Chest Infection",
+	"about" : "Chest infections are common, especially after a cold or flu during autumn and winter.\nAlthough most are mild and get better on their own, some can be serious or even life-threatening.",
+	"symptoms" : [
+			"a persistent cough",
+			"coughing up yellow or green phlegm (thick mucus), or coughing up blood",
+			"breathlessness or rapid and shallow breathing",
+			"wheezing",
+			"a high temperature (fever)",
+			"a rapid heartbeat",	
+			"chest pain or tightness",
+			"feeling confused and disorientated"
+	],
+	"treatment": "Drink lots of fluid to prevent your body becoming lacking in fluids (dehydrated) and to help keep the mucus in your lungs thin and easier to cough up.\nInhale steam vapour, perhaps with added menthol. This can help to clear the mucus from your chest. Never use hot water for a child's cough, in case they get scalded by accident\nHave plenty of rest.\nAvoid lying flat at night to help keep your chest clear of mucus and make it easier to breathe.\nTake paracetamol,ibuprofen or aspirin to reduce high temperature (fever) and to ease any aches, pains and headaches.\nIf you smoke, you should try to stop smoking\nIf your throat is sore from coughing, you can relieve the discomfort with a warm drink of honey and lemon.",
+	"prevention" : [
+			"Immunisation against the pneumococcal germ (bacterium)",
+			"A healthy balanced diet and regular exercise can help keep your immune system strong, reducing the chance of succumbing to infections, including chest infections.",
+			"Most healthy people can get almost all the vitamins and minerals they need from a healthy balanced diet. However, it's difficult to get enough vitamin D from your diet.So,taking vitamin D supplements may help reduce the risk of getting respiratory tract infections."
+	]
+},
+{
+	"id" : 21,
+	"name" : "Chickenpox",
+	"about" : "Chickenpox is a mild and common childhood illness that most children catch at some point.\nIt causes a rash of red, itchy spots that turn into fluid-filled blisters. They then crust over to form scabs, which eventually drop off.\nChickenpox (known medically as varicella) is caused by a virus called the varicella-zoster virus. It's spread quickly and easily from someone who is infected.",
+	"symptoms" : [
+			"Fever",
+			"Loss of appetite",
+			"Headache",
+			"Tiredness and a general feeling of being unwell (malaise)",
+			"Raised pink or red bumps (papules), which break out over several days",
+			"Small fluid-filled blisters (vesicles), forming from the raised bumps over about one day before breaking and leaking",
+			"Crusts and scabs, which cover the broken blisters and take several more days to heal"
+	],
+	"treatment": "In otherwise healthy children, chickenpox typically requires no medical treatment. Your doctor may prescribe an antihistamine to relieve itching. But for the most part, the disease is allowed to run its course.\nIf you or your child falls into a high-risk group, your doctor may suggest an antiviral drug such as acyclovir (Zovirax) or another drug called immune globulin intravenous (Privigen). These medications may lessen the severity of the disease when given within 24 hours after the rash first appears.",
+	"prevention" : [
+			"The chickenpox (varicella) vaccine is the best way to prevent chickenpox.When the vaccine doesn't provide complete protection, it significantly lessens the severity of the disease.",
+			"Avoid contact with other persons suffering with chickenpox"
+	]
+},
+{
+	"id" : 22,
+	"name" : "Chronic myeloid leukaemia",
+	"about" : "Chronic myeloid leukemia (CML) is an uncommon type of cancer of the blood cells. The term 'chronic' in chronic myelogenous leukemia indicates that this cancer tends to progress more slowly than acute forms of leukemia.",
+	"symptoms" : [
+			"Easy bleeding",
+			"Feeling run-down or tired",
+			"Fever",
+			"Losing weight without trying",
+			"Loss of appetite",
+			"Pain or fullness below the ribs on the left side",
+			"Pale skin",
+			"Sweating excessively during sleep (night sweats)"
+	],
+	"treatment": "The goal of chronic myelogenous leukemia treatment is to eliminate the blood cells that contain the abnormal BCR-ABL gene that causes the overabundance of diseased blood cells.\nFor most people, it's not possible to eliminate all diseased cells, but treatment can help achieve a long-term remission of the disease.\nImatinib (Gleevec),Dasatinib (Sprycel),Nilotinib (Tasigna),Bosutinib (Bosulif),Ponatinib (Iclusig) are the initial treatment for most people diagnosed with chronic myelogenous leukemia.\nIf the disease doesn't respond or becomes resistant to the first targeted drug, doctors may consider other targeted drugs, such as omacetaxine (Synribo), or other treatments.",
+	"prevention" : [
+			"There's no known way to prevent most cases of chronic myeloid leukemia (CML). Some kinds of cancer can be prevented by making lifestyle changes and avoiding certain risk factors, but this is not true for most cases of CML.",
+			"The only potentially avoidable risk factor for CML is exposure to high doses of radiation, which applies to very few people."
+	]
+},
+{
+	"id" : 23,
+	"name" : "Chronic lymphocytic leukaemia",
+	"about" : "Chronic lymphocytic leukaemia is a type of cancer that affects the white blood cells and tends to progress slowly over many years.\nIt mostly affects people over the age of 60 and is rare in people under 40. Children are almost never affected.\nIn chronic lymphocytic leukaemia (CLL), the spongy material found inside some bones (bone marrow) produces too many white blood cells called lymphocytes that aren't fully developed and don't work properly.",
+	"symptoms" : [
+			"getting infections often",
+			"anaemia – persistent tiredness, shortness of breath and pale skin",
+			"bleeding and bruising more easily than normal",
+			"a high temperature (fever)",
+			"night sweats",
+			"swollen glands in your neck, armpits or groin",
+			"swelling and discomfort in your tummy",
+			"unintentional weight loss"
+	],
+	"treatment": "Treatment for chronic lymphocytic leukaemia (CLL) largely depends on what stage the condition is at when it's diagnosed.\nYou may just need to be monitored at first if it's caught early on. Chemotherapy is the main treatment if it's more advanced.\nTreatment can often help keep CLL under control for many years.\nIt may go away after treatment initially (known as remission), but will usually come back (relapse) a few months or years later and may need to be treated again.",
+	"prevention" : [
+			"Many types of cancer can be prevented by lifestyle changes to avoid certain risk factors, but there are very few  known risk factors for chronic lymphocytic leukemia (CLL), and most of these cannot be avoided. Most CLL patients have no known risk factors, so there is no way to prevent these cancers."
+	]
+},
+{
+	"id" : 24,
+	"name" : "Cirrhosis",
+	"about" : "Cirrhosis is scarring of the liver caused by continuous, long-term liver damage.\nScar tissue replaces healthy tissue in the liver and prevents the liver from working properly.\nThe damage caused by cirrhosis can't be reversed and can eventually become so extensive that your liver stops functioning. This is called liver failure.\nCirrhosis can be fatal if the liver fails. However, it usually takes years for the condition to reach this stage and treatment can help slow its progression.",
+	"symptoms" : [
+			"loss of appetite",
+			"nausea",
+			"itchy skin",
+			"fever and shivering",
+			"shortness of breath",
+			"vomiting blood",
+			"very dark or black, tarry stools (faeces)",
+			"periods of confusion or drowsiness"
+	],
+	"treatment": "Cirrhosis can't be cured, so treatment aims to manage the symptoms and any complications and stop the condition getting worse.\nIt's usually not possible to reverse liver damage that's already occurred, although recent research suggests this may eventually be possible in cases where the underlying cause of the liver damage can be successfully treated.",
+	"prevention" : [
+			"You can reduce your chances of developing cirrhosis by limiting your alcohol consumption and protecting yourself from a hepatitis infection.",
+			"Protect yourself from hepatitis"
+	]
+},
+{
+	"id" : 25,
+	"name" : "Common cold",
+	"about" : "A cold is a mild viral infection of the nose, throat, sinuses and upper airways. It's very common and usually clears up on its own within a week or two.",
+	"symptoms" : [
+			"a sore throat",
+			"a blocked or runny nose",
+			"sneezing",
+			"a cough",
+			"fever",
+			"headaches",
+			"aching muscle"
+	],
+	"treatment": "There's no cure for a cold, but you can look after yourself at home by:\ni)resting, drinking plenty of fluids and eating healthily\nii)taking over-the-counter painkillers, such as paracetamol or ibuprofen, to reduce any fever or discomfort\niii)using decongestant sprays or tablets to relieve a blocked nose\niv)trying remedies such as gargling salt water and sucking on menthol sweets",
+	"prevention" : [
+			"Wash your hands. Clean your hands thoroughly and often with soap and water, and teach your children the importance of hand-washing. If soap and water aren't available, use an alcohol-based hand sanitizer.",
+			"Disinfect your stuff. Clean kitchen and bathroom countertops with disinfectant, especially when someone in your family has a cold. Wash children's toys periodically.",
+			"Use tissues. Sneeze and cough into tissues. Discard used tissues right away, then wash your hands carefully.",
+			"Teach children to sneeze or cough into the bend of their elbow when they don't have a tissue. That way they cover their mouths without using their hands.",
+			"Don't share. Don't share drinking glasses or utensils with other family members. Use your own glass or disposable cups when you or someone else is sick. Label the cup or glass with the name of the person with the cold.",
+			"Steer clear of colds. Avoid close contact with anyone who has a cold.",
+			"Choose your child care center wisely. Look for a child care setting with good hygiene practices and clear policies about keeping sick children at home.",
+			"Take care of yourself. Eating well, getting exercise and enough sleep, and managing stress might help you keep colds at bay."
+	]
+},
+{
+	"id" : 26,
+	"name" : "Dehydration",
+	"about" : "Dehydration occurs when your body loses more fluid than you take in.\nWhen the normal water content of your body is reduced, it upsets the balance of minerals (salts and sugar) in your body, which affects the way it functions.",
+	"symptoms" : [
+			"dizziness or light-headedness",
+			"headache",
+			"tiredness",
+			"dry mouth, lips and eyes",
+			"passing small amounts of urine infrequently (less than three or four times a day)"	],
+	"treatment": "The best way to treat dehydration is to rehydrate the body by drinking plenty of fluids, such as water, diluted squash or diluted fruit juice.\nA sweet drink can help to replace lost sugar, and a salty snack can help to replace lost salt.",
+	"prevention" : [
+			"You should drink plenty of fluids to avoid becoming dehydrated.",
+			"Most of the time, you can prevent dehydration by drinking water regularly throughout the day. Be guided by your thirst, but be aware that in hot weather, when exercising and during illness, you should drink more."
+			"Mild dehydration can be relieved by drinking more water and diluted fruit squash. If necessary, you can purchase oral rehydration solutions (ORS) from a pharmacy. As a guide, passing pale or clear-coloured urine (wee) is a good sign that you're well hydrated."
+	]
+},
+{
+	"id" : 27,
+	"name" : "Depression",
+	"about" : "Depression is more than simply feeling unhappy or fed up for a few days.We all go through spells of feeling down, but when you're depressed you feel persistently sad for weeks or months, rather than just a few days.",
+	"symptoms" : [
+			"continuous low mood or sadness",
+			"feeling hopeless and helpless",
+			"having low self-esteem",
+			"feeling tearful",
+			"feeling guilt-ridden",
+			"feeling irritable and intolerant of others",
+			"finding it difficult to make decisions",
+			"not getting any enjoyment out of life",
+			"feeling anxious or worried",
+			"having suicidal thoughts or thoughts of harming yourself",
+			"moving or speaking more slowly than usual",
+			"change in appetite or weight (usually decreased, but sometimes increased)",
+			"constipation ",
+			"unexplained aches and pains"
+	],
+	"treatment": "Cognitive behavioral theory or Online CBT, Interpersonal therapy,Psychodynamic psychotherapy and counselling can help treat depression",
+	"prevention" : [
+			"Take steps to control stress, to increase your resilience and boost your self-esteem.",
+			"Reach out to family and friends, especially in times of crisis, to help you weather rough spells.",
+			"Get treatment at the earliest sign of a problem to help prevent depression from worsening.",
+			"Consider getting long-term maintenance treatment to help prevent a relapse of symptoms."
+	]
+},
+{
+	"id" : 28,
+	"name" : "Diarrhoea",
+	"about" : "Diarrhoea is passing looser or more frequent stools than is normal for you.It affects most people from time to time and is usually nothing to worry about. However, it can be distressing and unpleasant until it passes, which normally takes a few days to a week.",
+	"symptoms" : [
+			"stomach cramps",
+			"nausea and vomiting",
+			"headache",
+			"loss of appetite"
+	],
+	"treatment": "Diarrhoea will usually clear up without treatment after a few days, particularly if it's caused by an infection.\nIn children, diarrhoea will usually pass within 5 to 7 days and will rarely last longer than 2 weeks.\nIn adults, diarrhoea usually improves within 2 to 4 days, although some infections can last a week or more.",
+	"prevention" : [
+			"wash your hands thoroughly with soap and warm water after going to the toilet and before eating or preparing food",
+			"clean the toilet, including the handle and the seat, with disinfectant after each bout of diarrhoea",
+			"avoid sharing towels, flannels, cutlery or utensils with others",
+			"wash soiled clothing and bed linen separately from other clothes and at the highest temperature possible – for example, 60C or higher for linen– after first removing any poo into the toilet",
+			"avoid returning to work or school until at least 48 hours after the last episode of diarrhoea"
+	]
+},
+{
+	"id" : 29,
+	"name" : "Down's syndrome",
+	"about" : "Down's syndrome, also known as Down syndrome, is a genetic condition that typically causes some level of learning disability and characteristic physical features.\nAlthough children with Down's syndrome share some common physical characteristics, they do not all look the same.\n A child with Down's syndrome will look more like their mother, father or other family members than other children with the syndrome.",
+	"symptoms" : [
+			"Flattened face",
+			"Small head",
+			"Short neck",
+			"Protruding tongue",
+			"Upward slanting eye lids (palpebral fissures)",
+			"Unusually shaped or small ears",
+			"Poor muscle tone",
+			"Broad, short hands with a single crease in the palm",
+			"Relatively short fingers and small hands and feet",
+			"Excessive flexibility",
+			"Tiny white spots on the colored part (iris) of the eye called Brushfield's spots",
+			"Short height"
+	],
+	"treatment":"Early intervention for infants and children with Down syndrome can make a major difference in improving their quality of life. Because each child with Down syndrome is unique, treatment will depend on individual needs.",
+	"prevention" : [
+			"Antenatal screening has the capacity to detect more than 90% of Down's syndrome pregnancies leading to therapeutic abortion",
+			"Taking folic acid supplements before and during early pregnancy may reduce the risk of Down syndrome."
+	]
+},
+
+{
+	"id" : 30,
+	"name" : "Epilepsy",
+	"about" : "Epilepsy is a central nervous system (neurological) disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and sometimes loss of awareness.\nAnyone can develop epilepsy. Epilepsy affects both males and females of all races, ethnic backgrounds and ages.",
+	"symptoms" : [
+			"Temporary confusion",
+			"A staring spell",
+			"Uncontrollable jerking movements of the arms and legs(Seizures)",
+			"Loss of consciousness or awareness",
+			"Psychic symptoms such as fear, anxiety or deja vu"
+	],
+	"treatment":"Doctors generally begin by treating epilepsy with medication.\nMost people with epilepsy can be successfully treated with AEDs. AEDs do not cure epilepsy, but can prevent seizures from occurring.There are many different AEDs.\n Generally, they work by changing the levels of the chemicals in your brain that conduct electrical impulses. This reduces the chance of a seizure.\nHowever if medications don't treat the condition, doctors may propose surgery or another type of treatment.",
+	"prevention" : [
+			"Get plenty of sleep each night.",
+			"Learn stress management and relaxation techniques",
+			"Avoid bright flashing lighs and other stimuli",
+			"Avoid playing video games",
+			"Eat a healthy diet"
+	]
+},
+{
+	"id" : 31,
+	"name" : "Erectile dysfunction",
+	"about" : "Erectile dysfunction (ED), also known as impotence, is the inability to get and maintain an erection.\nErectile dysfunction is a very common condition, particularly in older men. It is estimated that half of all men between the ages of 40 and 70 will have it to some degree.",
+	"symptoms" : [
+			"Trouble getting an erection",
+			"Trouble keeping an erection",
+			"Reduced sexual desire"
+	],
+	"treatment": "Treat underlying conditions.If your erectile dysfunction is caused by an underlying health condition, such as heart disease or diabetes, that condition may need to be treated first.\nUse of Phosphodiesterase-5 (PDE-5) inhibitors is an effective medication for treating erectile dysfunction. They work by temporarily increasing the blood flow to your penis.",
+	"prevention" : [
+			"Work with your doctor to manage diabetes, heart disease or other chronic health conditions.",
+			"See your doctor for regular checkups and medical screening tests.",
+			"Stop smoking, limit or avoid alcohol, and don't use illegal drugs.",
+			"Exercise regularly.",
+			"Take steps to reduce stress.",
+			"Get help for anxiety, depression or other mental health concerns."
+	]
+},
+{
+	"id" : 32,
+	"name" : "Eye cancer",
+	"about" : "Melanoma is a type of cancer that develops in the cells that produce melanin — the pigment that gives your skin its color.\nYour eyes also have melanin-producing cells and can develop melanoma. Eye melanoma is also called ocular melanoma.",
+	"symptoms" : [
+			"shadows, flashes of light, or wiggly lines in your vision",
+			"blurred vision",
+			"a dark patch in your eye that's getting bigger",
+			"partial or total loss of vision",
+			"bulging of one eye",
+			"a lump on your eyelid or in your eye that's increasing in size",
+			"pain in or around your eye, although this is rare"
+	],
+	"treatment": "Treatment for melanoma of the eye depends on the size and location of the tumour.The main treatments are:\n i)brachytherapy – tiny plates lined with radioactive material called plaques are inserted near the tumour and left in place for up to a week to kill the cancerous cells \nii)external radiotherapy – a machine is used to carefully aim beams of radiation at the tumour to kill the cancerous cells\niii)surgery to remove the tumour or part of the eye – this may be possible if the tumour is small and you still have some vision in your eye.\niv)removal of the eye (enucleation) – this may be necessary if the tumour is large or you've lost your vision; the eye will eventually be replaced with an artificial eye that matches your other eye",
+	"prevention" : [
+			"We do not yet know what causes most cancers of the eye, so it is not yet possible to prevent them."
+	]
+},
+{
+	"id" : 33,
+	"name" : "Endometriosis",
+	"about" : "Endometriosis (en-doe-me-tree-O-sis) is an often painful disorder in which tissue that normally lines the inside of your uterus — the endometrium — grows outside your uterus.\nEndometriosis most commonly involves your ovaries, fallopian tubes and the tissue lining your pelvis. Rarely, endometrial tissue may spread beyond pelvic organs.",
+	"symptoms" : [
+			"painful periods",
+			"pain in the lower abdomen before and during menstruation",
+			"cramps one or two weeks around menstruation",
+			"heavy menstrual bleeding or bleeding between periods",
+			"infertility",
+			"pain following sexual intercourse",
+			"discomfort with bowel movements",
+			"lower back pain that may occur at any time during your menstrual cycle"
+	],
+	"treatment": "Endometriosis has no cure, but its symptoms can be managed.Medical and surgical options are available to help reduce your symptoms and manage any potential complications.\nYour doctor may first try conservative treatments. They may then recommend surgery if your condition doesn’t improve.",
+	"prevention" : [
+			"Lower your estrogen levels",
+			"Exercise regularly",
+			"Avoid alcohal",
+			"Cut down on caffeine"
+	]
+},
+{
+	"id" : 34,
+	"name" : "Food poisoning",
+	"about" : "Food poisoning is an illness caused by eating contaminated food. It's not usually serious and most people get better within a few days without treatment.\nIn most cases of food poisoning, the food is contaminated by bacteria, such as salmonella or Escherichia coli (E. coli), or a virus, such as the norovirus.",
+	"symptoms" : [
+			"feeling sick (nausea)",
+			"vomiting",
+			"diarrhoea, which may contain blood or mucus",
+			"stomach cramps and abdominal (tummy) pain",
+			"a lack of energy and weakness",
+			"loss of appetite",
+			"a high temperature (fever)",
+			"aching muscles",
+			"chills"
+	],
+	"treatment":"Food poisoning can usually be treated at home without seeking medical advice. Most people will feel better within a few days.However depending on the situation you may contact a doctor and take some over-the-counter medicines.",
+	"prevention" : [
+			"Wash your hands with soap and warm water after going to the toilet or changing a baby's nappy",
+			"It's important to cook food thoroughly, particularly meat and most types of seafood, to kill any harmful bacteria that may be present.",
+			"Certain foods need to be kept at the correct temperature to prevent harmful bacteria from growing and multiplying. Always check the storage instructions on the label.",
+			"Avoid cross-contamination by keeping yourself clean."
+	]
+},
+{
+	"id" : 35,
+	"name" : "Fibromyalgia",
+	"about" : "Fibromyalgia, also called fibromyalgia syndrome (FMS), is a long-term condition that causes pain all over the body.\nThe exact cause of fibromyalgia is unknown, but it's thought to be related to abnormal levels of certain chemicals in the brain and changes in the way the central nervous system (brain, spinal cord and nerves) processes pain messages carried around the body.",
+	"symptoms" : [
+			"increased sensitivity to pain",
+			"fatigue (extreme tiredness)",
+			"muscle stiffness",
+			"difficulty sleeping",
+			"problems with mental processes (known as 'fibro-fog') – such as problems with memory and concentration"
+			"headaches",
+			"irritable bowel syndrome (IBS) – a digestive condition that causes stomach pain and bloating"
+	],
+	"treatment": "Treatment for fibromyalgia tries to ease some of your symptoms and improve quality of life, but there's currently no cure.\nFibromyalgia has numerous symptoms, meaning that no single treatment will work for all of them. Treatments that work for some people won't necessarily work for others.",
+	"prevention" : [
+			"Get adequate sleep",
+			"Reduce emotional and mental stress",
+			"Get regular exercise.",
+			"Eat a balanced diet."
+	]
+},
+{
+	"id" : 36,
+	"name" : "Gallbladder Cancer",
+	"about" : "Gallbladder cancer is cancer that begins in the gallbladder.\nIt is difficult to diagnose because it often causes no specific signs or symptoms. Also, the relatively hidden nature of the gallbladder makes it easier for gallbladder cancer to grow without being detected.",
+	"symptoms" : [
+			"Abdominal pain, particularly in the upper right portion of the abdomen",
+			"Abdominal bloating",
+			"Fever",
+			"Losing weight without trying",
+			"Nausea",
+			"Yellowing of the skin and whites of the eyes (jaundice)"
+	],
+	"treatment": "The main treatment for gallbladder cancer is surgery to remove the gallbladder and possibly some of the surrounding tissue.\nChemotherapy and radiotherapy are also sometimes used, either on their own or in combination with surgery.",
+	"prevention" : [
+			"There is no known way to prevent most gallbladder cancers. Many of the known  risk factors for gallbladder cancer, such as age, gender, ethnicity, and bile duct abnormalities, are beyond our control. But there are things you can do that might lower your risk.",
+			"Getting to and staying a healthy weight is one important way a person may reduce their risk of gallbladder cancer, as well as several other cancers."
+	]
+},
+
+{
+	"id" : 37,
+	"name" : "Gastroenteritis ",
+	"about" : "Gastroenteritis is a very common condition that causes diarrhoea and vomiting. It's usually caused by a bacterial or viral tummy bug.\nIt affects people of all ages, but is particularly common in young children.\nMost cases in children are caused by a virus called rotavirus. Cases in adults are usually caused by norovirus (the 'winter vomiting bug') or bacterial food poisoning.",
+	"symptoms" : [
+			"sudden, watery diarrhoea",
+			"feeling sick",
+			"vomiting, which can be projectile",
+			"a mild fever",
+			"loss of appetite",
+			"upset stomach",
+			"aching limbs",
+			"headaches"
+	],
+	"treatment":"Prevent dehydration.Make sure they get plenty of rest.Encourage them to drink plenty of fluids.\nGive them paracetamol if they have an uncomfortable fever or aches and pains. Young children may find liquid paracetamol easier to swallow than tablets.",
+	"prevention" : [
+			"Stay off work, school or nursery until at least 48 hours after the symptoms have passed. You or your child should also avoid visiting anyone in hospital during this time.",
+			"Ensure you and your child wash your hands frequently and thoroughly with soap and water, particularly after using the toilet and before preparing food. Don't rely on alcohol hand gels, as they're not always effective.",
+			"Disinfect any surfaces or objects that could be contaminated. It's best to use a bleach-based household cleaner.",
+			"Wash contaminated items of clothing or bedding separately on a hot wash.",
+			"Don't share towels, flannels, cutlery or utensils while you or your child is ill.",
+			"Flush away any poo or vomit in the toilet or potty and clean the surrounding area.",
+			"Practice good food hygiene. Make sure food is properly refrigerated, always cook your food thoroughly, and never eat food that is past its use-by date – read more about preventing food poisoning. "
+	]
+},
+
+{
+	"id" : 38,
+	"name" : " Gastro-eosophageal reflux disease ",
+	"about" : "Gastro-oesophageal reflux disease (GORD) is a common condition, where acid from the stomach leaks up into the oesophagus (gullet).\nIt usually occurs as a result of the ring of muscle at the bottom of the oesophagus becoming weakened.",
+	"symptoms" : [
+			"heartburn",
+			"acid reflux",
+			"a sore, inflamed oesophagus (oesophagitis)",
+			"bad breath",
+			"bloating and belching",
+			"feeling or being sick",
+			"difficulty swallowing, which may feel like a piece of food is stuck low down in your throat",
+			"pain when swallowing",
+			"a sore throat and hoarseness",
+			"a persistent cough or wheezing, which may be worse at night",
+			"tooth decay and gum disease"
+	],
+	"treatment":"Heartburn and gastro-oesophageal reflux disease (GORD) can often be treated with self-help measures and over-the-counter medicines.\nThese medications include antacids,alginates and low-dose proton pumps\nIf PPIs don't control your symptoms, a medicine known as a H2RA may be recommended for you to take alongside them on a short-term basis, or as an alternative.",
+	"prevention" : [
+			"Eat smaller and more frequent meals.",
+			"Avoid anything you think triggers your symptoms.",
+			"Don't wear tight clothing.",
+			"Raise the head of your bed by up to 20cm (8 inches) – placing a piece of wood or blocks underneath one end of your bed may reduce symptoms at night; don't just use extra pillows, as this can put a strain on your tummy."
+			"Maintain a healthy weight.",
+			"Stop smoking."
+	]
+},
+
+{
+	"id" : 39,
+	"name" : "Gum disease",
+	"about" : "Gingivitis is a common and mild form of gum disease (periodontal disease) that causes irritation, redness and swelling (inflammation) of your gingiva, the part of your gum around the base of your teeth.\n It's important to take gingivitis seriously and treat it promptly. Gingivitis can lead to much more serious gum disease called periodontitis and tooth loss.",
+	"symptoms" : [
+			"Swollen or puffy gums",
+			"Dusky red or dark red gums",
+			"Gums that bleed easily when you brush or floss",
+			"Bad breath",
+			"Receding gums",
+			"Tender gums"
+	],
+	"treatment": "Treatment includes professionally cleaning the pockets around teeth to prevent damage to surrounding bone. Advanced cases may require surgery.",
+	"prevention" : [
+			"Maintain good oral hygiene.",
+			"Have regular dental visits.",
+			"Practise a healthy lifestyle such as healthy eating and managing blood sugar if you have diabetes."
+	]
+},
+
+
+//70-105
+
+{
+	"id" : 70,
+	"name" : "Nasal and sinus cancer",
+	"about" : "Nasal and sinus cancer affects the nasal cavity (the space behind your nose) and the sinuses (small, air-filled cavities inside your nose, cheekbones and forehead).",
+	"symptoms" : [
+			"a persistent blocked nose, which usually only affects one side",
+			"nosebleeds",
+			"mucus draining from the nose, which may be blood-stained",
+			"a decreased sense of smell",
+			"pain or numbness in the face",
+			"swollen glands in the neck",
+			"partial loss of vision or double vision",
+			"a bulging or persistently watering eye",
+			"a lump or growth on your face, nose or roof of your mouth"
+	],
+	"treatment": "The best treatment depends on several factors, including how far the cancer has spread and your general health.Treatment may include:\ni)Surgery to remove a tumour.\nii)radiotherapy\niii)chemotherapy",
+	"prevention" : [
+			"Not all nasal cavity and paranasal sinus cancers can be prevented, but the risk of developing these cancers can be greatly reduced by avoiding certain risk factors, such as workplace exposures to certain substances.",
+			"Cigarette smoking is another avoidable risk factor for cancers of the nasal cavity and sinuses."
+	]
+},
+{
+	"id" : 71,
+	"name" : "Neuroblastoma",
+	"about" : "Neuroblastoma is a cancer that develops from immature nerve cells found in several areas of the body.\nNeuroblastoma most commonly arises in and around the adrenal glands, which have similar origins to nerve cells and sit atop the kidneys. However, neuroblastoma can also develop in other areas of the abdomen and in the chest, neck and near the spine, where groups of nerve cells exist.\nNeuroblastoma most commonly affects children age 5 or younger, though it may rarely occur in older children.",
+	"symptoms" : [
+			"loss of appetite",
+			"loss of energy",
+			"a lump in the neck",
+			"bone pain and difficulty walking, if the bones are affected",
+			"numbness, weakness or loss of movement in the child’s lower body, if the cancer has affected the spinal cord",
+			"pale skin, bruising, bleeding and frequent infections, if the cancer has affected the bone marrow",
+			"bluish lumps in the skin and the appearance of 'black eyes'"
+	],
+	"treatment": "The outlook for neuroblastoma is generally better if the child is younger and the cancer is confined to one site.\nBabies with Stage 4s neuroblastoma who have no symptoms may not need treatment, as the cancer may go away on its own.\nDepending on the stage, chemotherapy is usually given to shrink the tumour before it is surgically removed, followed in some cases by radiotherapy to kill any remaining cancer cells.\nAlmost half of neuroblastoma cases are an aggressive form and, despite very intensive treatment, the cancer may return. In these cases, further treatment will often be necessary.",
+	"prevention" : [
+			"Maintain a healthy weight",
+			"Quit smoking.",
+			"Some studies suggest that having mothers take prenatal multi-vitamins or folic acid might lower the risk of neuroblastoma, but further research is needed to confirm this."
+	]
+},
+{
+	"id" : 72,
+	"name" : "Neuroendocrine tumours",
+	"about" : "Neuroendocrine tumours (NETs) are rare tumours that can occur in the cells of the neuroendocrine system.\nNETs can be malignant (cancerous) or benign (non-cancerous) and often – but not always – grow slowly. There are a number of different types of NET, depending on the specific cells affected.",
+	"symptoms" : [
+			"diarrhoea",
+			"constipation",
+			"tummy pain",
+			"wheezing or persistent cough",
+			"flushing",
+			"low blood sugar"
+	],
+	"treatment":"How a neuroendocrine tumour is treated will depend on your individual circumstances. For example, your treatment will depend on:\ni)where the tumour is\nii)how advanced your condition is\niii)your overall health.Unfortunately, many people are only diagnosed after other parts of their body are affected.\nHowever, it may still be possible to surgically remove the tumour, even if it has spread to other parts of your body.If surgery can't be used to completely cure your condition, it may be used to help manage and reduce any symptoms that you have.\nIt may also be possible to shrink the tumour or stop further growth using treatments that block the blood supply to the tumour (embolisation), or chemotherapy, radiotherapy or radiofrequency ablation (where heat is used to destroy the cells).",
+	"prevention" : [
+			"Change diet and lifestyle.",
+			"By Chemoprevention(medicines to treat a precancerous condition or to keep camcer from starting.",
+			"Quit smoking.",
+	]
+},
+{
+	"id" : 73,
+	"name" : "",
+	"about" : "Obsessive compulsive disorder (OCD) is a mental health condition where a person has obsessive thoughts and compulsive activity.\nAn obsession is an unwanted and unpleasant thought, image or urge that repeatedly enters a person's mind, causing feelings of anxiety, disgust or unease.\nA compulsion is a repetitive behaviour or mental act that someone feels they need to carry out to try to temporarily relieve the unpleasant feelings brought on by the obsessive thought.",
+	"symptoms" : [
+			"obsession – where an unwanted, intrusive and often distressing thought, image or urge repeatedly enters your mind",
+			"anxiety – the obsession provokes a feeling of intense anxiety or distress"
+			"compulsion – repetitive behaviours or mental acts that you feel driven to perform as a result of the anxiety and distress caused by the obsession",
+			"temporary relief – the compulsive behaviour brings temporary relief from anxiety, but the obsession and anxiety soon return, causing the cycle to begin again"
+	],
+	"treatment":"Treatment for obsessive compulsive disorder (OCD) depends on the how much the condition is affecting your daily life.\nThe two main treatments are:\n i)cognitive behavioural therapy (CBT) involving graded exposure and response prevention (ERP) – therapy that encourages you to face your fear and let the obsessive thoughts occur without 'putting them right' or 'neutralising' them with compulsions.\n ii)medication – to control your symptoms by altering the balance of chemicals in your brain",
+	"prevention" : [
+			"There's no sure way to prevent obsessive-compulsive disorder. However, getting treatment as soon as possible may help prevent OCD from worsening and disrupting activities and your daily routine."
+	]
+},
+{
+	"id" : 74,
+	"name" : "Obstructive sleep apnoea",
+	"about" : "Obstructive sleep apnoea (OSA) is a relatively common condition where the walls of the throat relax and narrow during sleep, interrupting normal breathing.\nThis may lead to regularly interrupted sleep, which can have a big impact on quality of life and increases the risk of developing certain conditions.",
+	"symptoms" : [
+			"Excessive daytime sleepiness",
+			"Loud snoring",
+			"Observed episodes of breathing cessation during sleep",
+			"Abrupt awakenings accompanied by gasping or choking",
+			"Awakening with a dry mouth or sore throat",
+			"Morning headache",
+			"Difficulty concentrating during the day",
+			"Experiencing mood changes, such as depression or irritability",
+			"High blood pressure",
+			"Nighttime sweating",
+			"Decreased libido"
+	],
+	"treatment":"Treatment for obstructive sleep apnoea (OSA) may include making lifestyle changes and using breathing apparatus while you sleep.\nOSA is a long-term condition and many cases require lifelong treatment.",
+	"prevention" : [
+			""
+	]
+},
+{
+	"id" : 75,
+	"name" : "Oesophageal cancer",
+	"about" : "Oesophageal cancer is a type of cancer affecting the oesophagus (gullet) – the long tube that carries food from the throat to the stomach.\nIt mainly affects people in their 60s and 70s and is more common in men than women.",
+	"symptoms" : [
+			"difficulty swallowing",
+			"persistent indigestion or heartburn",
+			"bringing up food soon after eating",
+			"loss of appetite and weight loss",
+			"pain or discomfort in your upper tummy, chest or back"
+	],
+	"treatment": "The main treatments for oesophageal cancer are surgery, chemotherapy and radiotherapy.",
+	"prevention" : [
+			"Quit drinking",
+			"Drink alcohal in moderation,if at all",
+			"Eat more fruits and veggies",
+			"Maintain a healthy weight."
+	]
+},
+{
+	"id" : 76,
+	"name" : "Osteoarthritis",
+	"about" : "Osteoarthritis is a condition that causes the joints to become painful and stiff.\nThe severity of osteoarthritis symptoms can vary greatly from person to person, and between different affected joints.",
+	"symptoms" : [
+			"joint tenderness",
+			"increased pain and stiffness when you have not moved your joints for a while",
+			"joints appearing slightly larger or more 'knobbly' than usual",
+			"a grating or crackling sound or sensation in your joints",
+			"limited range of movement in your joints",
+			"weakness and muscle wasting (loss of muscle bulk)"
+	],
+	"treatment":"Painkillers like paracetamol can be used to kill severe pain in joints.\nIf paracetamol does not effectively control the pain then Non-steroidal anti-inflammatory drugs (NSAIDs) can be used.Other medications include using opiates,Capsaicin cream etc.",
+	"prevention" : [
+			"There is no prevention of osteoarthritis with the exception of avoiding joint injury."
+	]
+},
+{
+	"id" : 77,
+	"name" : "Osteoporosis",
+	"about" : "Osteoporosis is a condition that weakens bones, making them fragile and more likely to break.\nIt develops slowly over several years and is often only diagnosed when a minor fall or sudden impact causes a bone fracture.",
+	"symptoms" : [
+			"Back pain, caused by a fractured or collapsed vertebra",
+			"Loss of height over time",
+			"A stooped posture",
+			"A bone fracture that occurs much more easily than expected"
+	],
+	"treatment": "Bisphosphonates,Strontium ranelate,Selective oestrogen receptor modulators (SERMs),Parathyroid hormone (teriparatide) etc can be used for treating Osteoporosis at an advanced stage.",
+	"prevention" : [
+			"Good intake of protein",
+			"Maintain a healthy body weight",
+			"Take calcium and vitamin-D rich diet",
+			"Do regular exercise."
+	]
+},
+{
+	"id" : 78,
+	"name" : "Ovarian cancer"	,
+	"about" : "Ovarian cancer is a type of cancer that begins in the ovaries.\nThe most common ovarian cancers are known as epithelial ovarian cancers (EOC) or ovarian carcinoma.\nInherited mutations in the BRCA1 and BRCA2 genes greatly increase a woman's ovarian cancer risk as well as breast cancer risk.",
+	"symptoms" : [
+			"Abdominal bloating or swelling",
+			"Quickly feeling full when eating",
+			"Weight loss",
+			"Discomfort in the pelvis area",
+			"Changes in bowel habits, such as constipation"
+			"A frequent need to urinate"
+	],
+	"treatment":"Surgery,Chemotherapy, Radiotherapy are some of the methods to treat Ovarian cancer",
+	"prevention" : [
+			"Consider taking birth pills",
+			"If you're found to have a gene mutation that increases your risk of ovarian cancer, you may consider surgery to remove your ovaries to prevent cancer."
+	]
+},
+{
+	"id" : 79,
+	"name" : "Pancreatic cancer",
+	"about" : "Pancreatic cancer is caused by the abnormal and uncontrolled growth of cells in the pancreas – a large gland that's part of the digestive system.\nPancreatic cancer typically spreads rapidly to nearby organs. It is seldom detected in its early stages.",
+	"symptoms" : [
+			"Pain in the upper abdomen that radiates to your back",
+			"Loss of appetite or unintended weight loss",
+			"Depression",
+			"New-onset diabetes",
+			"Blood clots",
+			"Fatigue",
+			"Yellowing of your skin and the whites of your eyes (jaundice)"
+	],
+	"treatment": "Treatment for pancreatic cancer depends on the type, location and stage of your cancer (how far it's spread).\nYour age, general health and personal preferences will also be taken into consideration when deciding on your treatment plan.\nThe first aim will be to completely remove the tumour and any other cancerous cells in your body.\nIf this isn't possible, the focus will be on preventing the tumour growing and causing further harm.",
+	"prevention" : [
+			"Stop smoking",
+			"Maintain a healthy weight",
+			"Choose a healthy diet"
+	]
+},
+{
+	"id" : 80,
+	"name" : "Parkinson's disease",
+	"about" : "Parkinson's disease is a condition in which the brain becomes progressively more damaged. Learn about Parkinson's disease symptoms and treatments.",
+	"symptoms" : [
+			"Tremor – shaking, which usually begins in the hand or arm and is more likely to occur when the limb is relaxed and resting",
+			"Slowness of movement (bradykinesia) – where physical movements are much slower than normal, which can make everyday tasks difficult and can result in a distinctive slow, shuffling walk with very small steps",
+			"muscle stiffness (rigidity) – stiffness and tension in the muscles, which can make it difficult to move around and make facial expressions, and can result in painful muscle cramps (dystonia)"
+	],
+	"treatment": "There are several therapies that can make living with Parkinson's disease easier and help you deal with your symptoms on a day-to-day basis.Some of them are: Physiotherapy,Occupational therapy,Speech and language therapy etc.\nMedications include levodopa,dopamine agonists and monamine oxidase-B inhibitors",
+	"prevention" : [
+			"Because the cause of Parkinson's is unknown, proven ways to prevent the disease also remain a mystery.",
+			"However, some research has shown that caffeine — which is found in coffee, tea and cola — may reduce the risk of developing Parkinson's disease.",
+			"Green tea also may reduce the risk of developing Parkinson's disease.",
+			"It has also been proved that regular aerobic exercise may reduce the risk of Parkinson's disease."
+	]
+},
+{
+	"id" : 81,
+	"name" : "Pelvic Organ Prolapse",
+	"about" : "Pelvic organ prolapse is bulging of one or more of the pelvic organs into the vagina.\nThese organs are the uterus, vagina, bowel and bladder.",
+	"symptoms" : [
+			"a sensation of a bulge or something coming down or out of the vagina, which sometimes needs to be pushed back.",
+			"discomfort during sex",
+			"problems passing urine – such as slow stream, a feeling of not emptying the bladder fully, needing to urinate more often and leaking a small amount of urine when you cough, sneeze or exercise (stress incontinence)"
+	],
+	"treatment": "Many women with prolapse don't need treatment, as the problem doesn't seriously interfere with their normal activities.\nLifestyle changes such as weight loss and pelvic floor exercises are usually recommended in mild cases.\nIf the symptoms require treatment, a prolapse may be treated effectively using a device inserted into the vagina, called a vaginal pessary. This helps to hold the prolapsed organ in place.Surgery may also be an option for some women. This usually involves giving support to the prolapsed organ. In some cases, complete removal of the womb (hysterectomy) is required, especially if the womb has prolapsed out.",
+	"prevention" : [
+			"doing regular pelvic floor exercises",
+			"maintaining a healthy weight or losing weight if you're overweight",
+			"eating a high-fibre diet with plenty of fresh fruit, vegetables, and wholegrain bread and cereal to avoid constipation and straining when going to the toilet",
+			"avoiding heavy lifting"
+	]
+},
+{
+	"id" : 82,
+	"name" : "Pneumonia",
+	"about" : "Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing.\nPneumonia can range in seriousness from mild to life-threatening.",
+	"symptoms" : [
+			"Chest pain when you breathe or cough",
+			"Confusion or changes in mental awareness (in adults age 65 and older)",
+			"Cough, which may produce phlegm",
+			"Fatigue",
+			"Fever, sweating and shaking chills",
+			"Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)",
+			"Nausea, vomiting or diarrhea",
+			"Shortness of breath"
+	],
+	"treatment": "Mild pneumonia can usually be treated at home with rest, antibiotics and by drinking plenty of fluids. More severe cases may need hospital treatment.\nUnless a healthcare professional tells you otherwise, you should always finish taking a prescribed course of antibiotics, even if you feel better.",
+	"prevention" : [
+			"Get vaccinated",
+			"Practise good hygiene",
+			"Don't smoke",
+			"Keep your immune system strong."
+	]
+},
+{
+	"id" : 83,
+	"name" : "Prostate cancer",
+	"about" : "Prostate cancer is cancer that occurs in the prostate — a small walnut-shaped gland in men that produces the seminal fluid that nourishes and transports sperm.\nUsually prostate cancer grows slowly and is initially confined to the prostate gland, where it may not cause serious harm.\nHowever, while some types of prostate cancer grow slowly and may need minimal or even no treatment, other types are aggressive and can spread quickly.",
+	"symptoms" : [
+			"Trouble urinating",
+			"Decreased force in the stream of urine",
+			"Blood in semen",
+			"Discomfort in the pelvic area",
+			"Bone pain",
+			"Erectile dysfunction"
+	],
+	"treatment": "Doctors will use the results of your prostate examination, biopsy and scans to identify the 'stage' of your prostate cancer.The stage of the cancer will determine which types of treatments will be necessary.Medications include surgery,Radiation therapy,Hormonal therapy,chemotherapy etc",
+	"prevention" : [
+			"Choose a healthy diet full of vegetables.",
+			"Choose healthy foods over supplements",
+			"Exercise most days of the week.",
+			"Maintain a healthy weight."
+	]
+},
+{
+	"id" : 84,
+	"name" : "Raynaud's phenomenon",
+	"about" : "Raynaud’s phenomenon is a common condition that affects the blood supply to certain parts of the body – usually the fingers and toes.\nIt's often referred to as Raynaud’s syndrome, Raynaud’s disease or just Raynaud's",
+	"symptoms" : [
+			"Cold fingers or toes",
+			"Color changes in your skin in response to cold or stress",
+			"Numb, prickly feeling or stinging pain upon warming or stress relief"
+	],
+	"treatment": "You can usually treat Raynaud's phenomenon yourself, although medication is sometimes necessary.\nIf your symptoms fail to improve, you may be prescribed nifedipine.\nOther medications include using angiotensin,fluoxetine or sildenafil.",
+	"prevention" : [
+			"Keep your whole body warm, especially your hands and feet. Wear gloves and warm footwear in cold weather.",
+			"If you smoke, stop. Quitting smoking will improve your circulation, which should help to improve symptoms.",
+			"Exercise regularly, as this helps to improve your circulation and reduce stress levels (see below). For most people, 150 minutes of vigorous exercise a week is recommended. Read more about exercise.",
+			"Try to minimise your stress levels. Regular exercise, eating a healthy diet, and relaxation techniques, such as deep breathing or activities such as yoga, can help. You may find it useful to avoid stimulants such as coffee, tea and cola."
+	]
+},
+{
+	"id" : 85,
+	"name" : "Retinoblastoma",
+	"about" : "Retinoblastoma is a rare type of eye cancer that can affect young children (usually under 5 years of age).\nIf it's picked up early, retinoblastoma can often be successfully treated.\nRetinoblastoma can either affect one or both eyes.\nIf it affects both eyes, it's usually diagnosed before a child is 1 year old.\nIf it affects one eye, it tends to be diagnosed later (between the ages of 2 and 3).",
+	"symptoms" : [
+			"An unusual white reflection in the pupil.",
+			"A squint",
+			"A change in the color of the iris.",
+			"A red or inflammed eye",
+			"Poor vision"
+	],
+	"treatment": "The recommended treatment for retinoblastoma will depend on stage of the tumour which can either be:\ni)Intraocular and ii)Extraocular\nIn intial stages,laser treatment of the eye or freezing the tumour can cure the child.However, Chemotherapy,brachytherapy can be done in advanced stages when the cancer spreads outside eyeball.",
+	"prevention" : [
+			"In most cases, doctors aren't sure what causes retinoblastoma, so there's no proven way to prevent the disease.",
+			"genetic testing enables families to know which children have an increased risk of retinoblastoma, so eye exams can begin at an early age.",
+			"That way, retinoblastoma may be diagnosed very early — when the tumor is small and a chance for a cure and preservation of vision is still possible."
+	]
+},
+{
+	"id" : 86,
+	"name" : "Restless Legs syndrome",
+	"about" : "Restless legs syndrome, also known as Willis-Ekbom disease, is a common condition of the nervous system that causes an overwhelming, irresistible urge to move the legs.\nIt can also cause an unpleasant crawling or creeping sensation in the feet, calves and thighs. The sensation is often worse in the evening or at night. Occasionally, the arms are affected too.",
+	"symptoms" : [
+			"tingling, burning, itching or throbbing",
+			"a 'creepy-crawly' feeling",
+			"feeling like fizzy water is inside the blood vessels in the legs",
+			"a painful, cramping sensation in the legs, particularly in the calves"
+	],
+	"treatment":"Mild restless legs syndrome that isn't linked to an underlying health condition can be managed with just a few lifestyle changes.If symptoms are more severe, medication may be needed.\nAvoiding stimulants in the evening – such as caffeine, tobacco and alcohol not smoking – read more about quitting smoking taking regular daily exercise – but avoid exercising near bedtime",
+	"prevention" : [
+			"Getting better sleep and exercise can help some persons affected by restless legs.",
+			"Stopping smoking can significantly diminish or prevent symptoms.",
+			"Reduction or elimination of caffeine, nicotine, and alcohol from a person's diet can be very helpful."
+	]
+},
+{
+	"id" : 87,
+	"name" : "Scabies",
+	"about" : "Scabies is a contagious skin condition caused by tiny mites that burrow into the skin.\nIt is usually spread through prolonged periods of skin-to-skin contact with an infected person, or through sexual contact.\nIt's also possible – but rare – for scabies to be passed on by sharing clothing, towels and bedding with someone who's infected.",
+	"symptoms" : [
+			"Intense itching and a rash in areas of the body where the mites have burrowed.",
+			"The scabies rash consists of tiny red spots.",
+			"Scratching the rash may cause crusty sores to develop.",
+			"Scabies mites leave small red blotches and silver-coloured lines on the skin. "
+	],
+	"treatment":"If you have scabies, your partner will also need to be treated regardless of whether or not they have any symptoms. This is because it's highly likely that scabies will have been transmitted through close bodily contact, such as during sex.",
+	"prevention" : [
+			"Clean all clothes and linen",
+			"Starve the mites"
+	]
+},
+{
+	"id" : 88,
+	"name" : "Scoliosis",
+	"about" : "Scoliosis is the abnormal twisting and curvature of the spine.It is usually first noticed by a change in appearance of the back.\nBack pain is common in adults with scoliosis. Young people with scoliosis may also experience some discomfort but it's less likely to be severe.",
+	"symptoms" : [
+			"a visibly curved spine",
+			"one shoulder being higher than the other",
+			"one shoulder or hip being more prominent than the other",
+			"clothes not hanging properly",
+			"a prominent ribcage",
+			"a difference in leg lengths"
+	],
+	"treatment":"Treatment of scoliosis is based on the severity of the curve and the chances of the curve getting worse.\nFunctional scoliosis is caused by an abnormality elsewhere in the body. This type of scoliosis is treated by treating that abnormality, such as a difference in leg length.\nA small wedge can be placed in the shoe to help even out the leg length and prevent the spine from curving. There is no direct treatment of the spine because the spine is normal in these people.",
+	"prevention" : [
+			"Because the cause of idiopathic scoliosis is not known, there is no known way to prevent the problem. However, doctors speculate that doing certain exercises (Pilates, yoga, for example, with moves that torque or twist the spine) may make scoliosis worse.",
+			"Gymnastics activities (like doing back bends), carrying weight on one side of the body (like a backpack on one shoulder), and using a trampoline are examples of ways to potentially make scoliosis worse."
+	]
+},
+{
+	"id" : 89,
+	"name" : "Sickle cell disease",
+	"about" : "Sickle cell disease is the name for a group of inherited conditions that affect the red blood cells. The most serious type is called sickle cell anaemia.\nPeople with sickle cell disease produce unusually shaped red blood cells that can cause problems because they don't live as long as healthy blood cells and they can become stuck in blood vessels.",
+	"symptoms" : [
+			"painful episodes called sickle cell crises, which can be very severe and can last up to a week",
+			"an increased risk of serious infections",
+			"anaemia (where red blood cells can't carry enough oxygen around the body), which can cause tiredness and shortness of breath"
+	],
+	"treatment":"People with sickle cell disease will need specialist care throughout their lives.\n A blood transfusion may be needed if severe anaemia develops a medicine called hydroxycarbamide (hydroxyurea) can reduce the symptoms if they're interfering with your or your child's life\nStem cell or bone marrow transplants can potentially cure sickle cell disease, but they're not done very often because of the significant risks involved.",
+	"prevention" : [
+			"If you carry the sickle cell trait, seeing a genetic counselor before trying to conceive can help you understand your risk of having a child with sickle cell anemia. He or she can also explain possible treatments, preventive measures and reproductive options."
+	]
+},
+{
+	"id" : 90,
+	"name" : "Skin cancer",
+	"about" : "Most skin cancers are locally destructive cancerous (malignant) growth of the skin. They originate from the cells of the epidermis, the superficial layer of the skin.\nUnlike cutaneous malignant melanoma, the vast majority of these sorts of skin cancers rarely spread to other parts of the body (metastasize) and become life-threatening.",
+	"symptoms" : [
+			"Appearance of a shiny pink, red, pearly, or translucent bump",
+			"Pink skin growths or lesions with raised borders that are crusted in the center",
+			"Raised reddish patch of skin that may crust or itch, but is usually not painful",
+			"A white, yellow, or waxy area with a poorly defined border that may resemble a scar"
+	],
+	"treatment":"There are several effective means of treating skin cancer. The choice of therapy depends on the location and size of the tumor, the microscopic characteristics of the cancer, and the general health of the patient.\n i)Topical medications\n ii)Destruction by electrodessication and curettage (EDC)\n iii)Surgical excision\n iv)Radiation therapy",
+	"prevention" : [
+			"Avoid the sun during middle of the day",
+			"Wear sunscreen year-round",
+			"Avoid tanning beds",
+			"Be aware of sun-sensitizing medications"
+	]
+},
+{
+	"id" : 91,
+	"name" : "Sjogren's sydrome",
+	"about" : "Sjögren's (pronounced Show-grin's) syndrome is an autoimmune disorder. The body’s immune system attacks glands that secrete fluid, such as the tear and saliva glands.\nThe effects of Sjögren's syndrome can be widespread. Certain glands become inflamed, which reduces the production of tears and saliva, causing the main symptoms of Sjögren's syndrome, which are dry eyes and dry mouth.\nIn women (who are most commonly affected), the glands that keep the vagina moist can also be affected, leading to vaginal dryness.",
+	"symptoms" : [
+			"dry skin",
+			"tiredness and fatigue – which are common and can lead to total exhaustion",
+			"muscle pain",
+			"joint pain, stiffness and swelling",
+			"vasculitis (inflammation of blood vessels)",
+			"difficulty concentrating, remembering and reasoning"	
+	],
+	"treatment":"There's no cure for Sjögren's syndrome, but treatments help relieve symptoms such as eye and mouth dryness.Sjögren's syndrome affects everyone in different ways, so your treatment plan will be tailored to suit you.\nThe medicine pilocarpine is often used to treat the symptoms of dry eyes and dry mouth.",
+	"prevention" : [
+			"Because Sjogren’s syndrome is felt to be inherited, there is no particular way to prevent developing the disease. Although, you can prevent complications and stop symptoms from getting worse by avoiding certain medications, dry environments, caffeine and alcohol, infections, and cavities."
+	]
+},
+{
+	"id" : 92,
+	"name" : "Stomach cancer",
+	"about" : "Stomach cancer usually begins in the mucus-producing cells that line the stomach. This type of cancer is called adenocarcinoma.",
+	"symptoms" : [
+			"Fatigue",
+			"Feeling bloated after eating",
+			"Feeling full after eating small amounts of food",
+			"Severe, persistent heartburn",
+			"Severe indigestion that is always present",
+			"Unexplained, persistent nausea",
+			"Stomach pain",
+			"Persistent vomiting",
+			"Unintentional weight loss"
+	],
+	"treatment":"The treatments recommended for stomach cancer will depend on your general health and how far the cancer has spread.\nThe main treatments for stomach cancer are surgery, chemotherapy and radiotherapy. You may have one of these treatments or a combination.\nIf surgery is recommended, you may have chemotherapy beforehand. If the tumour is in the upper part of your stomach, including the junction between the oesophagus and stomach, you may also have radiotherapy prior to surgery.\nSurgery is mainly used if stomach cancer is diagnosed at an early stage, whereas chemotherapy and radiotherapy tend to be used when the condition is diagnosed at a later stage.\nWhere possible, the primary aim of treatment is to completely remove the tumour and any other cancerous cells in your body. It's estimated that a cure is possible in 20-30% of stomach cancer cases.\nIf it's not possible to remove the tumour, your doctors will focus on trying to prevent it from getting any bigger and causing further harm to your body. This may be done using surgery or chemotherapy.\nIn some cases, it's not possible to eliminate the cancer or slow it down. In this case, your treatment will aim to relieve your symptoms and make you as comfortable as possible, usually with surgery or radiotherapy.\nA relatively new medication called trastuzumab (see below) can also be used to treat some types of advanced stomach cancer.",
+	"prevention" : [
+			"Regular exercise is associated with a reduced risk of stomach cancer. Try to fit physical activity into your day most days of the week.",
+			"Eat more fruits and veggies.",
+			"Reduce the amount of salty and smoked foods",
+			"Stop smoking. If you smoke,quit."
+	]
+},
+{
+	"id" : 93,
+	"name" : "Stroke",
+	"about" : "A stroke is a serious,life-threatening medical condition that occurs when the blood supply to part of the brain is cut off.\nStrokes are a medical emergency and urgent treatment is essential because the sooner a person receives treatment for a stroke, the less damage is likely to happen.",
+	"symptoms" : [
+			"The face may have dropped on one side, the person may not be able to smile or their mouth or eye may have dropped.",
+			"The person with suspected stroke may not be able to lift both arms and keep them there because of arm weakness or numbness in one arm.",
+			"Their speech may be slurred or garbled, or the person may not be able to talk at all despite appearing to be awake.",
+	],
+	"treatment":"If you have had an ischaemic stroke, a combination of medications to treat the condition and prevent it from happening again will usually be recommended.\nIschaemic strokes can often be treated using injections of a medication called alteplase that dissolves blood clots and restores the flow of blood to the brain. This use of 'clot-busting' medication is known as thrombolysis.\nMost people will also be offered a regular dose of aspirin which – as well as being a painkiller – makes the cells in your blood called platelets less sticky, reducing the chances of another clot forming.\nSome people may also be offered an additional medication called an anticoagulant to help reduce their risk of developing further blood clots in the future.Anticoagulants prevent blood clots by changing the chemical composition of the blood in a way that prevents clots from occurring.",
+	"prevention" : [
+			"The best way to help prevent a stroke is to eat a healthy diet, exercise regularly and avoid smoking and drinking too much alcohol.",
+			"These lifestyle changes can reduce your risk of problems such as atherosclerosis (where arteries become clogged up by fatty substances), high blood pressure and high cholesterol levels, all of which are important risk factors for strokes.",
+			"If you have already had a stroke, making these changes can help reduce your risk of having another one in the future."
+	]
+},
+{
+	"id" : 94,
+	"name" : "Thyroid cancer",
+	"about" : "Thyroid cancer occurs in the cells of the thyroid — a butterfly-shaped gland located at the base of your neck, just below your Adam's apple.\nIt occurs when cells in your thyroid undergo genetic changes (mutations).The mutations allow the cells to grow and multiply rapidly.The cells also lose the ability to die, as normal cells would. The accumulating abnormal thyroid cells form a tumor. The abnormal cells can then invade nearby tissue and can spread throughout the body.",
+	"symptoms" : [
+			"A lump that can be felt through the skin on your neck",
+			"unexplained hoarseness that doesn't get better after a few weeks",
+			"a sore throat or difficulty swallowing that doesn't get better",
+			"pain in your neck"
+	],
+	"treatment":"If you're diagnosed with thyroid cancer,you'll be assigned a care team, who will devise a treatment plan for you.Your recommended treatment plan will depend on the type and grade of your cancer,and whether your care team thinks that a complete cure is realistically achievable.",
+	"prevention" : [
+			"Adults and children with an inherited gene mutation that increases the risk of medullary thyroid cancer are often advised to have thyroid surgery to prevent cancer (prophylactic thyroidectomy). Discuss your options with a genetic counselor who can explain your risk of thyroid cancer and your treatment options.",
+			"Fallout from an accident at a nuclear power plant could cause thyroid problems in people living nearby.Taking a medication (potassium iodide) that blocks the effects of radiation on the thyroid can help prevent you and your family from this disease."
+	]
+},
+{
+	"id" : 95,
+	"name" : "Tuberculosis",
+	"about" : "Tuberculosis (TB) is a bacterial infection spread through inhaling tiny droplets from the coughs or sneezes of an infected person.\nIt mainly affects the lungs. However, it can affect any part of the body, including the glands, bones and nervous system.",
+	"symptoms" : [
+			"a persistent cough that lasts more than three weeks and usually brings up phlegm, which may be bloody",
+			"weight loss",
+			"night sweats",
+			"high temperature (fever)",
+			"tiredness and fatigue",	
+			"loss of appetite",
+			"new swellings that haven't gone away after a few weeks"
+	],
+	"treatment":"Treatment for tuberculosis (TB) will usually involve a long course of antibiotics lasting several months.\nWhile TB is a serious condition that can be fatal if left untreated, deaths are rare if treatment is completed.\nFor most people, a hospital admission during treatment is not necessary.",
+	"prevention" : [
+			"If you test positive for latent TB infection, your doctor may advise you to take medications to reduce your risk of developing active tuberculosis.So if you can prevent your latent tuberculosis from becoming active, you won't transmit tuberculosis to anyone else",
+			"Finish your entire course of medication",
+			"Infants can be vaccinated with bacillus Calmette-Guerin (BCG) vaccine because it can prevent severe tuberculosis in children."
+	]
+},
+{
+	"id" : 96,
+	"name" : "Type 1 Diabetes",
+	"about" : "Type 1 diabetes mellitus (formerly known as insulin-dependent diabetes or juvenile diabetes) is a condition in which the immune system attacks the pancreas which thus stops making insulin. This causes the person's blood glucose level (blood sugar) to increase.",
+	"symptoms" : [
+			"Increased thirst",
+			"Frequent urination",
+			"Bed-wetting in children who previously didn't wet the bed during the night",
+			"Extreme hunger",
+			"Unintended weight loss",
+			"Irritability and other mood changes",
+			"Fatigue and weakness",
+			"Blurred vision"
+	],
+	"treatment":"An important part of your treatment is to make sure that your blood sugar level is as normal and stable as possible.\nYou'll be able to manage this using insulin treatment and by eating a healthy, balanced diet, but you will also have to regularly check your blood glucose levels to make sure they're not too high or too low.",
+	"prevention" : [
+			"There's no known way to prevent type 1 diabetes. But researchers are working on preventing the disease or further destruction of the islet cells in people who are newly diagnosed.",
+			"Ask your doctor if you might be eligible for one of these clinical trials, but carefully weigh the risks and benefits of any treatment available in a trial."
+	]
+},
+{
+	"id" : 97,
+	"name" : "Type 2 Diabetes",
+	"about" : "Type 2 diabetes is a condition in which pancreas still makes insulin, but the cells cannot use blood sugar (glucose) efficiently for energy.\n This happens when the cells become insensitive to insulin and the blood sugar gradually gets too high.",
+	"symptoms" : [
+			"Excess thirst",
+			"Urinating a lot",
+			"Gaining or losing weight unintentionally",
+			"Dark skin under armpits, chin, or groin",
+			"Fatigue",
+			"Unusual odor to urine",
+			"Blurry vision"
+	],
+	"treatment":"Type 2 diabetes usually gets worse over time. Making lifestyle changes, such as adjusting your diet and taking more exercise, may help you control your blood glucose levels at first, but may not be enough in the long term.\nMetformin is usually the first medicine used to treat type 2 diabetes. It works by reducing the amount of glucose your liver releases into your bloodstream. It also makes your body's cells more responsive to insulin.",
+	"prevention" : [
+			"Eat healthy food",
+			"Aim for a minimum of 30 minutes of moderate physical activity a day. Take a brisk daily walk. Ride a bike. Swim laps. If you can't fit in a long workout, spread 10-minute or longer sessions throughout the day.",
+			"If you're overweight, losing 7 percent of your body weight can reduce the risk of diabetes. To keep your weight in a healthy range, focus on permanent changes to your eating and exercise habits."
+	]
+},
+{
+	"id" : 98,
+	"name" : "Urinary tract infection",
+	"about" : "Urinary tract infections (UTIs) are common infections that can affect the bladder, the kidneys and the tubes connected to them.\nAnyone can get them, but they're particularly common in women. Some women experience them regularly (called recurrent UTIs).\nUTIs can be painful and uncomfortable, but usually pass within a few days and can be easily treated with antibiotics.",
+	"symptoms" : [
+			"a need to pee more often than usual",
+			"pain or discomfort when peeing",
+			"sudden urges to pee",
+			"feeling as though you're unable to empty your bladder fully",
+			"pain low down in your tummy",
+			"urine that's cloudy, foul-smelling or contains blood",
+			"feeling generally unwell, achy and tired"
+	],
+	"treatment":"UTIs are normally treated with a short course of antibiotics.Most women are given a three-day course of antibiotic capsules or tablets. Men, pregnant women and people with more serious symptoms may need a slightly longer course.\nYour symptoms will normally pass within three to five days of starting treatment. But make sure you complete the whole course of antibiotics that you've been prescribed, even if you're feeling better.\nOver-the-counter painkillers such as paracetamol can help with any pain. Drinking plenty of fluids may also help you feel better.",
+	"prevention" : [
+			"Drink plenty of liquids,especially water.",
+			"Drink cranberry juice",
+			"Empty your bowel soon after the intercourse."
+			"Avoid potentially irritating feminine products in genitals",
+	]
+},
+{
+	"id" : 99,
+	"name" : "Ulcerative colitis",
+	"about" : "Ulcerative colitis is a long-term condition, where the colon and rectum become inflamed.Small ulcers can develop on the colon's lining, and can bleed and produce pus.",
+	"symptoms" : [
+			"recurring diarrhoea, which may contain blood, mucus or pus"
+			"abdominal (tummy) pain",
+			"needing to empty your bowels frequently"
+	],
+	"treatment":"Treatment for ulcerative colitis depends on how severe the condition is and how often your symptoms flare up.\nThe main aims of treatment are to:\n i)reduce symptoms, known as inducing remission (a period without symptoms)\n ii) maintain remission\nThis usually involves taking various types of medication, although surgery may sometimes be an option.",
+	"prevention" : [
+			"Ulcerative colitis cannot be prevented, but there are steps that can be taken to reduce or eliminate symptoms.",
+			"Dietary changes, including avoiding certain foods (e.g., dairy products, cabbage, broccoli, beans, spicy foods) and increasing dietary fiber,may help in some cases.",
+			"Patients who have ulcerative colitis should eat small, frequent meals.If the condition is active, bland, soft foods may cause less discomfort.",
+			"Patients should also be sure to drink plenty of liquids, especially water. A daily multivitamin may be helpful, as colitis interferes with proper absorption of nutrients."
+	]
+},
+{
+	"id" : 100,
+	"name" : "Uterus Cancer",
+	"about" : "Uterus Cancer or Endometrial Cancer is a common cancer that affects the female reproductive system.\n It is often detected at an early stage because it frequently produces abnormal vaginal bleeding, which prompts women to see their doctors.",
+	"symptoms" : [
+			"Vaginal bleeding after menopause",
+			"Bleeding between periods",
+			"An abnormal, watery or blood-tinged discharge from your vagina",
+			"Pelvic pain"
+	],
+	"treatment":"Your chances of surviving womb cancer depend on the stage at which it's diagnosed.If womb cancer is diagnosed at stage 1, the outlook is good and around 95% of women live for at least 5 more years. Many women with stage 1 womb cancer are cured.If womb cancer is diagnosed at stage 2, you have around a 77% chance of living at least 5 more years.If the condition is diagnosed at stage 3, you have a 40% chance of living at least another 5 years.\nThe main treatment for womb cancer is to remove the womb (hysterectomy), together with the ovaries and fallopian tubes. This is sometimes followed by radiotherapy or chemotherapy to try to kill any possible remaining cancer cells, depending on the stages",
+	"prevention" : [
+			"Talk to your doctor about the risks of hormone therapy after menopause.",
+			"Consider taking birth control pills.",
+			"Maintain a healty weight",
+			"Exercise most day of the week"
+	]
+},
+{
+	"id" : 101,
+	"name" : "Vaginal Cancer",
+	"about" : "Vaginal cancer is a rare cancer that occurs in your vagina — the muscular tube that connects your uterus with your outer genitals.\nVaginal cancer most commonly occurs in the cells that line the surface of your vagina, which is sometimes called the birth canal.",
+	"symptoms" : [
+			"bleeding between your normal periods, or after sex",
+			"bleeding after the menopause (post-menopausal bleeding)",
+			"smelly or bloody vaginal discharge",
+			"pain during sex",
+			"pain when urinating"
+			"needing to urinate more frequently than usual",
+			"blood in your urine",
+			"pelvic pain",
+			"an itch or lump in your vagina"
+	],
+	"treatment":"Treatment for vaginal cancer depends on which part of your vagina is affected and how far the cancer has spread (known as the 'stage').\nThe main treatments for vaginal cancer are:\n i)radiotherapy – radiation is used to destroy the cancerous cells.\n ii)surgery to remove the cancerous cells.\n iii)chemotherapy – medication is used to kill the cancerous cells; this is often used in combination with radiotherapy",
+	"prevention" : [
+			"Undergo regular pelvic exams and Pap tests." 
+			"Ask your doctor about the HPV vaccine." 
+			"Don't smoke."
+	]
+},
+{
+	"id" : 102,
+	"name" : "Vulval cancer",
+	"about" : "Cancer of the vulva is a rare type of cancer that affects women.\nMost of those affected by vulval cancer are older women over the age of 65. The condition is rare in women under 50 who have not yet gone through the menopause.",
+	"symptoms" : [
+			"a persistent itch in the vulva",
+			"pain, soreness or tenderness in the vulva",
+			"raised and thickened patches of skin that can be red, white or dark",
+			"a lump or wart-like growth on the vulva",
+			"bleeding from the vulva or blood-stained vaginal discharge between periods",
+			"an open sore in the vulva",
+			"a burning pain when passing urine",
+			"a mole on the vulva that changes shape or colour"
+	],
+	"treatment":"Treatment for vulval cancer depends on factors such as how far the cancer has spread, your general health, and personal wishes.The main options are surgery, radiotherapy and chemotherapy. Many women with vulval cancer have a combination of these treatments.",
+	"prevention" : [
+			"Limit the number of sexual partner.",
+			"Use a condom every time you have sex",
+			"Get the HPV vaccine"
+	]
+},
+{
+	"id" : 103,
+	"name" : "Warts",
+	"about" : "Warts are small, self-limited benign tumors caused by one of over 100 types of human papillomaviruses (HPV).",
+	"symptoms" : [
+			"round or oval-shaped bumps",
+			"have a rough, irregular surface similar to a cauliflower",
+			"often develop on the knuckles, fingers and knees",
+			"vary in size, from less than 1mm to more than 10mm (1cm) in diameter",
+			"Flat ('plane') warts may arise on the face, legs, and other parts of the body, often in large numbers.",
+			"Genital Warts shows small, flesh-colored or gray swellings in your genital area"
+	],
+	"treatment":"Warts usually clear up without treatment.However,it can take up to 2 years for the virus to leave your system and the warts to disappear.\nLeaving the wart to go away by itself is one option. However, you may want to consider treatment if your wart is painful, in an awkward position, or is causing you distress or embarrassment.",
+	"prevention" : [
+			"not touch other people’s warts",
+			"not share towels, flannels or other personal items with someone who has a wart",
+			"not share shoes or socks with someone who has a verruca",
+			"avoid scratching or picking your wart or verruca because it will encourage the HPV to spread to other parts of your body",
+			"take care when shaving because the virus can be spread easily if you cut yourself",
+			"keep your feet dry, and change your socks every day to help prevent warts developing on your feet"
+	]
+},
+{
+	"id" : 104,
+	"name" : "Wilms' tumour",
+	"about" : "Wilms’ tumour is a type of kidney cancer that was named after Dr Max Wilms, who first described it. It is thought to come from very specialised cells in the embryo known as metanephric blastema.\nThe cells usually disappear at birth, but in many children with Wilms’ tumour, clusters of primitive kidneys cells, called nephrogenic rests can still be found.",
+	"symptoms" : [
+			"swollen abdomen which is usually painless",
+			"possibilty of blood in your child’s urine, or their blood pressure may be raised.",
+			"high temperature (fever), upset stomach, weight loss or a lack of appetite."
+	],
+	"treatment":"Treatment is planned by specialists in children’s tumours and cancers. This is usually based in a children’s oncology unit within a main hospital, but some treatment may be given closer to home.\nTreatment will depend on a number of factors including how the cells appear under the microscope (histology) and the stage of the tumour. It may include chemotherapy, radiotherapy or surgery.",
+	"prevention" : [
+			"Wilms' tumor can't be prevented by anything you or your child can do.",
+			"If your child has risk factors for Wilms' tumor (such as known associated syndromes), the doctor may recommend periodic kidney ultrasounds to look for kidney abnormalities.",
+			"Although screening can't prevent Wilm's tumour, but it may help to detect the disease at an early stage."
+	]
+},
+{
+	"id" : 105,
+	"name" : "Yellow fever",
+	"about" : "Yellow fever is a serious viral infection that is spread by certain types of mosquito.\nThe mosquitoes that spread the infection are usually active and bite during daylight hours",
+	"symptoms" : [
+		"a high temperature (fever)",
+		"a headache",
+		"nausea or vomiting",
+		"muscle pain, including backache", 
+		"loss of appetite",
+		"jaundice",
+		"kidney failure",
+		"blood in vomit and stools"
+	],
+	"treatment":"There is no specific treatment for yellow fever, but the symptoms can be treated while your body fights off the virus.\nHeadache, high temperature and muscle pain can be treated using painkillers such as paracetamol or ibuprofen.Plenty of fluids should be taken to avoid dehydraion",
+	"prevention" : [
+		"A highly effective vaccine exists to prevent yellow fever.",
+		"Using repellents to keep away mosquitoes",
+		"Wear long-sleeved shirts and long pants when you go into mosquito-infested areas.",
+		"Avoid unnecessary outdoor activity when mosquitoes are most active."
+	]
+};
