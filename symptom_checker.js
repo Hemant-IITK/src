@@ -31,13 +31,26 @@ function test() {
 			var array = [];
 			var len = req.body.length;
 			var i = 0;
-			if (len > 5) {
+			if (len > 6) {
 				len = 5;
-			}
-			while (len > 0) {
+				while (len > 0) {
+				array[i] = req.body[i+1].id;
+				len--;
+				i++;
+				}
+				i=0;
+			} else if (len > 5 && len <= 6) {
+				len = 5;
+				while (len > 0) {
 				array[i] = req.body[i].id;
 				len--;
 				i++;
+			} else {
+				while (len > 0) {
+				array[i] = req.body[i].id;
+				len--;
+				i++;
+				}
 			}
 			if (array.length == 5) {
 				var final_result = [];
