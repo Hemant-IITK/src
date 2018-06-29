@@ -1,25 +1,36 @@
-DROP DATABASE information_project;
+/*DROP DATABASE information_project;*/  -- this is optional depending on the existence of the database information_project.
 CREATE DATABASE information_project;
 USE information_project;
 
 /*TABLE for storing user info*/
-CREATE TABLE patient_info(
-  pat_id INT  AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(55),
-  email VARCHAR(60),
-  password VARCHAR(254),
-  age INT,
-  gender VARCHAR(8),
-  dob DATE, /*make seperate sql file to update age based on DATEDIFF(exp1,exp2) using dob*/
-  ailments VARCHAR(255) /*provide an update button to only update ailments*/
+CREATE TABLE users(
+  user_id INT  AUTO_INCREMENT PRIMARY KEY,
+  uname VARCHAR(55),
+  uemail VARCHAR(60),
+  upassword VARCHAR(254),
+  uphone VARCHAR(11),
+  uage INT,
+  ugender VARCHAR(8),
+  udob DATE, /*make seperate sql file to update age based on DATEDIFF(exp1,exp2) using dob*/
+  isloggedin VARCHAR(6)
 );
-
-/*TABLE for storing bookings*/
-CREATE TABLE bookings(
-  booking_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  pat_id INT NOT NULL,
-  booked_at TIMESTAMP DEFAULT NOW(),
-  FOREIGN KEY(pat_id) REFERENCES patient_info(pat_id)
+/* TABLE for storing forgot password entries */
+CREATE TABLE forgotpassword(
+  userid INT,
+  uemail VARCHAR(60),
+  randomstring VARCHAR(200)	
+)
+/*TABLE for storing pending bookings*/
+CREATE TABLE pendingbookingsofdoctors(
+  uid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  uname VARCHAR(60),
+  uemail VARCHAR(60),
+  uphone VARCHAR(11),
+  uaddress VARCHAR(254),
+  ugender VARCHAR(7),
+  doctornumber INT,
+  hash VARCHAR(254),
+  doctoremail VARCHAR(60)
 );
 
 /*TABLE for storing doctor_info*/
@@ -31,9 +42,50 @@ CREATE TABLE doctor_info(
   speciality VARCHAR(50),
   location VARCHAR(50),
   address VARCHAR(254),
-  timing VARCHAR(20),
+  timeslot VARCHAR(20),
   gender VARCHAR(7),
-  email VARCHAR(50)
+  email VARCHAR(50),
+  image VARCHAR(254)	
+);
+CREATE TABLE doc_1(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_2(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_3(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_4(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_5(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_6(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_7(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_8(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_9(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
+);
+CREATE TABLE doc_10(
+  token INT AUTO_INCREMENT PRIMARY KEY,
+  user_email VARCHAR(60)
 );
 /*Inserting doctors data*/
 INSERT INTO doctor_info(
