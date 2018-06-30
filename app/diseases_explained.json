@@ -1,4 +1,415 @@
 {
+        "id": 1,
+        "name": "Abdominal Aortic Aneurysm",
+        "about": "An abdominal aortic aneurysm (AAA) is a swelling (aneurysm) of the aorta – the main blood vessel that leads away from the heart, down through the abdomen to the rest of the body. The abdominal aorta is the largest blood vessel in the body and is usually around 2cm wide – roughly the width of a garden hose. However, it can swell to over 5.5cm – what doctors class as a large AAA.",
+        "symptoms": [
+            "a pulsating feeling in your stomach (abdomen), usually near your belly button, that's usually only noticeable when you touch it",
+            "persistent back pain",
+            "persistent abdominal pain",
+            "dizziness",
+            "sweaty and clammy skin",
+            "rapid heartbeat (tachycardia)",
+            "shortness of breath",
+            "feeling faint",
+            "loss of consciousness"
+        ],
+        "treatment": "If a large AAA is detected before it ruptures, most people will be advised to have treatment, to prevent it rupturing.\n This is usually done with surgery to replace the weakened section of the blood vessel with a piece of synthetic tubing.\n If surgery is not advisable – or if you decide not to have it – there are a number of non-surgical treatments that can reduce the risk of an aneurysm rupturing.\n They include medications to lower your cholesterol and blood pressure, and quitting smoking.\n You will also have the size of your aneurysm checked regularly with ultrasound scanning.",
+        "prevention": [
+            "Focus on heart health",
+            "avoid cardiovascular risk factors such as smoking",
+            "treat high blood pressure",
+            "control diabetes"
+        ]
+},
+{
+        "id": 2,
+        "name": "Acne",
+        "about": "Acne is a common skin condition that affects most people at some point. It causes spots, oily skin and sometimes skin that's hot or painful to touch.",
+        "symptoms": [
+            "Whiteheads (closed plugged pores)",
+            "Blackheads (open plugged pores)",
+            "Small red, tender bumps (papules)",
+            "Pimples (pustules), which are papules with pus at their tips",
+            "Large, solid, painful lumps beneath the surface of the skin (nodules)",
+            "Painful, pus-filled lumps beneath the surface of the skin (cystic lesions)"
+        ],
+        "treatment": "Although acne can't be cured, it can be controlled with treatment. Several creams, lotions and gels for treating spots are available at pharmacies.\n If you develop acne, it's a good idea to speak to your pharmacist for advice. Products containing a low concentration of benzoyl peroxide may be recommended – but be careful, as this can bleach clothing.\n If your acne is severe or appears on your chest and back, it may need to be treated with antibiotics or stronger creams that are only available on prescription.",
+        "prevention": [
+            "Don't wash affected areas of skin more than twice a day. Frequent washing can irritate the skin and make symptoms worse",
+            "Wash the affected area with a mild soap or cleanser and lukewarm water. Very hot or cold water can make acne worse",
+            "Don't try to \"clean out\" blackheads or squeeze spots. This can make them worse and cause permanent scarring",
+            "Avoid using too much make-up and cosmetics. Use water-based products that are described as non-comedogenic (this means the product is less likely to block the pores in your skin)",
+            "Completely remove make-up before going to bed",
+            "If dry skin is a problem, use a fragrance-free, water-based emollient",
+            "Regular exercise can't improve your acne, but it can boost your mood and improve your self-esteem. Shower as soon as possible once you finish exercising, as sweat can irritate your acne",
+            "Wash your hair regularly and try to avoid letting your hair fall across your face"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "AIDS",
+        "about": "First reported in the United States in 1981, Acquired Immune Deficiency Syndrome (AIDS) destroys the body’s ability to fight infections and other life-threatening illnesses, according to the National Institute of Allergy and Infectious Diseases (NIAID). The virus that causes AIDS is called HIV, or Human Immunodeficiency Virus.",
+        "symptoms": [
+            "Rapid weight loss or \"wasting\"",
+            "Extreme fatigue",
+            "Recurring fevers and night sweats",
+            "Prolonged gland swelling",
+            "Prolonged diarrhea",
+            "Sores in the mouth, genitals or anus",
+            "Pneumonia",
+            "Skin blotches",
+            "Depression, memory loss and other neurological effects",
+            "joint pain"
+        ],
+        "treatment": "While AIDS remains incurable, patients are living much longer – even decades after infection – because of the development of many effective medications to suppress the virus. The most effective type are known as antiretroviral drugs, which are often taken in combination to prevent the patient from becoming resistant to any one drug.\n According to the National Institutes of Health, the most common antiretroviral drugs fall into three categories:\n i) Reverse transcriptase inhibitors, which keep the virus from reproducing\n ii) Protease inhibitors, which interfere with an HIV protein that produces infectious particles\n iii) Fusion inhibitors, which prevent the virus from entering healthy cells\n  Doctors verify if medications are working through blood tests, which measure levels of various infection-fighting blood cells as well as the level of HIV in the blood. Even when the virus is undetectable, AIDS is not cured and can still be transmitted to others.",
+        "prevention": [
+            "Knowing yours and your partners’ HIV status",
+            "Using latex condoms correctly during every sexual encounter, whether gay or straight",
+            "Limiting the number of sexual partners",
+            "Abstaining from injectable drug use",
+            "Seeking medical treatment immediately after suspected HIV exposure, since medications can sometimes prevent infection if started early"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Acute Myleoid Leukaemia",
+        "about": "Leukaemia is cancer of the white blood cells. Acute leukaemia means it progresses rapidly and aggressively, and usually requires immediate treatment.\n Acute leukaemia is classified according to the type of white blood cells affected. The two main types of white blood cells are - lymphocytes and myeloid cells.",
+        "symptoms": [
+            "pale skin",
+            "tiredness",
+            "breathlessness",
+            "a high temperature (fever)",
+            "excessive sweating",
+            "weight loss",
+            "frequent infections",
+            "unusual and frequent bleeding, such as bleeding gums or nosebleeds",
+            "easily bruised skin",
+            "flat red or purple spots on the skin (petechiae)",
+            "bone and joint pain",
+            "a feeling of fullness or discomfort in your tummy (abdomen), caused by swelling of the liver or spleen"
+        ],
+        "treatment": "Chemotherapy is the main treatment for AML. It's used to kill as many leukaemia cells in your body as possible and reduce the risk of the condition coming back (relapsing).\nTreatment for AML is often carried out in two stages:\n 1.) Induction – the aim of this initial stage of treatment is to kill as many leukaemia cells in your blood and bone marrow as possible, restore your blood to proper working order and treat any symptoms you may have.\n 2.) Consolidation – this stage aims to prevent the cancer returning (relapsing), by killing any remaining leukaemia cells that may be present in your body.",
+        "prevention": [
+            "quit smoking",
+            "avoiding cancer-causing chemicals, such as benzene"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Alzheimer's disease",
+        "about": "Alzheimer's disease is the most common type of dementia.\nDementia is a progressive neurological disease which affects multiple brain functions, including memory.\nThe exact cause of Alzheimer's disease is unknown, although a number of things are thought to increase your risk of developing the condition. These include:\n i) increasing age\n ii) a family history of the condition\n iii) previous severe head injuries\n iv) lifestyle factors and conditions associated with cardiovascular disease",
+        "symptoms": [
+            "memory lapses",
+            "repeat themselves regularly, such as asking the same question several times",
+            "show poor judgement or find it harder to make decisions",
+            "become less flexible and more hesitant to try new things",
+            "increasing confusion and disorientation",
+            "obsessive, repetitive or impulsive behaviour",
+            "disturbed sleep",
+            "hallucinations",
+            "considerable weight loss",
+            "gradual loss of speech"
+        ],
+        "treatment": "There's no cure for Alzheimer's disease, but medication is available that can help relieve some of the symptoms and slow down the progression of the condition in some people.\n Various other types of support are also available to help people with Alzheimer's live as independently as possible, such as making changes to your home environment so it's easier to move around and remember daily tasks.\n Psychological treatments such as cognitive stimulation therapy may also be offered to help support your memory, problem solving skills and language ability.\n In addition to medication, treatment for Alzheimer's disease involves a wide range of other measures and treatments to help people with dementia live as independently as possible.",
+        "prevention": [
+            "regular exercise",
+            "social engagement",
+            "healthy diet",
+            "mental stimulation",
+            "quality sleep",
+            "stress management"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Addison's disease",
+        "about": "Addison’s disease (also known as primary adrenal insufficiency or hypoadrenalism) is a rare disorder of the adrenal glands.\n The adrenal glands are two small glands that sit on top of the kidneys. They produce two essential hormones: cortisol and aldosterone.\n In Addison's disease, the adrenal gland is damaged, and not enough cortisol and aldosterone are produced.",
+        "symptoms": [
+            "fatigue (lack of energy or motivation)",
+            "lethargy (abnormal drowsiness or tiredness)",
+            "muscle weakness",
+            "low mood (mild depression) or irritability",
+            "loss of appetite and unintentional weight loss",
+            "low blood pressure when you stand up, which can cause dizziness and fainting ",
+            "feeling sick (nausea)",
+            "vomiting",
+            "diarrhoea",
+            "abdominal, joint or back pain"
+        ],
+        "treatment": "Addison’s disease is treated with medication to replace the missing hormones. You'll need to take the medication for the rest of your life.\n With treatment, symptoms of Addison's disease can largely be controlled. Most people with the condition live a normal lifespan and are able to live an active life, with few limitations.\n However, many people with Addison's disease also find they must learn to manage bouts of fatigue and there may be associated health conditions, such as diabetes or an underactive thyroid.\n People with Addison's disease must be constantly aware of the risk of a sudden worsening of symptoms, called an adrenal crisis. This can happen when the levels of cortisol in your body fall significantly.",
+        "prevention": [
+            "preventing autoimmune diseases",
+            "treating fungal infections",
+            "controlling diabetes",
+            "treating bacterial infection such as tuberculosis"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Anal cancer",
+        "about": "Anal cancer is a rare type of cancer that affects the very end of the large bowel.",
+        "symptoms": [
+            "bleeding from the bottom (rectal bleeding)",
+            "itching and pain around the anus",
+            "small lumps around the anus",
+            "a discharge of mucus from the anus",
+            "loss of bowel control (bowel incontinence)"
+        ],
+        "treatment": "The main treatments used for anal cancer are:\n i) chemoradiation – a combination of chemotherapy and radiotherapy\n ii) surgery – to remove a tumour or a larger section of bowel\n In cases where the cancer has spread and can't be cured, chemotherapy alone may be considered to help relieve symptoms. This is known as palliative care.",
+        "prevention": [
+            "Talk with your doctor about HPV vaccination",
+            "Avoid anal sexual intercourse, which carries an increased risk of HPV and HIV infection",
+            "Limit the number of sex partners. Having many partners increases the risk of HPV and HIV infection",
+            "Use a condom",
+            "Stop smoking"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Anaemia",
+        "about": "Iron deficiency anaemia is a condition where a lack of iron in the body leads to a reduction in the number of red blood cells.\nIron is used to produce red blood cells, which help store and carry oxygen in the blood. If you have fewer red blood cells than is normal, your organs and tissues won't get as much oxygen as they usually would.\nThere are several different types of anaemia, and each one has a different cause. Iron deficiency anaemia is the most common type.",
+        "symptoms": [
+            "tiredness and lack of energy (lethargy)",
+            "shortness of breath",
+            "noticeable heartbeats (heart palpitations)",
+            "a pale complexion",
+            "headache",
+            "altered sense of taste"
+        ],
+        "treatment": "Treatment for iron deficiency anaemia involves taking iron supplements to boost the low levels of iron in your body. This is usually effective, and the condition rarely causes long-term problems.\nYou'll need to be monitored every few months to check the treatment is working and your iron levels have returned to normal.\nThe underlying cause will need to be treated so you don't get anaemia again. Increasing the amount of iron in your diet may also be recommended.",
+        "prevention": [
+            "eat well-balanced diet that includes iron-rich foods",
+            "take iron supplements if needed"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Anorexia nervosa",
+        "about": "Anorexia nervosa is an eating disorder and a serious mental health condition.\n People with anorexia have problems with eating. They are very anxious about their weight and keep it as low as possible by strictly controlling and limiting what they eat. Many people with anorexia will also exercise excessively to lose weight.\n It is thought that people with anorexia are so concerned about their weight because they:\n i)think they are fat or overweight\n ii)have a strong fear of being fat\n iii)want to be thin",
+        "symptoms": [
+            "loss of weight deliberately",
+            "have pain in their abdomen (tummy)",
+            "feel bloated or constipated",
+            "have swelling in their feet, hands or face (known as oedema)",
+            "feel very tired (fatigue), as their sleep patterns may have changed",
+            "have low blood pressure (hypotension)",
+            "feel cold or have a low body temperature (hypothermia)",
+            "feel light-headed or dizzy"
+        ],
+        "treatment": "Treatment for anorexia usually includes:\n i) psychological treatment – talking to a therapist or counsellor\n ii) advice on eating and nutrition to help you gain weight safely\n These treatments work better when combined, rather than on their own.\n Your physical health will be monitored closely during your treatment.",
+        "prevention": [
+            "Do not encourage cultural values that consider thin as perfect bodies. Avoid linking being thin to looking good, popular or healthy. Talk to your children about the side effects of malnourishment and the life threatening nature of anorexia.",
+            "Help your children to develop a healthy view of self and others. Encourage and teach your children to take good care of their bodies.",
+            "Teach your children to eat healthy and do exercise. Do not use food as a means of punishment or reward for your child.",
+            "Show your children the healthy way of eating and exercising by being a good role model."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Arthritis",
+        "about": "Arthritis is a common condition that causes pain and inflammation in a joint.\n The two most common types of arthritis are:\n i) osteoarthritis\n ii) rheumatoid arthritis",
+        "symptoms": [
+            "joint pain, tenderness and stiffness",
+            "inflammation in and around the joints",
+            "restricted movement of the joints",
+            "warm, red skin over the affected joint",
+            "weakness and muscle wasting"
+        ],
+        "treatment": "There's no cure for arthritis, but there are many treatments that can help slow down the condition.\n For osteoarthritis, medications are often prescribed, including:\n i) painkillers\n ii) non-steroidal anti-inflammatory drugs (NSAIDs)\n iii) corticosteroids\n In severe cases, the following surgical procedures may be recommended:\n i) arthroplasty (joint replacement)\n ii) arthodesis (joint fusion)\n iii) osteotomy (where a bone is cut and re-aligned)\n Treatment for rheumatoid arthritis aims to slow down the condition's progress and minimise joint inflammation or swelling. This is to try and prevent damage to the joints.",
+        "prevention": [
+            "physiotherapy",
+            "regular exercise",
+            "do not smoke",
+            "eat a healthy diet",
+            "control weight",
+            "protect your joints",
+            "avoid injury"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Asthama",
+        "about": "Asthma is a common long-term condition that can cause coughing, wheezing, chest tightness and breathlessness.\n The severity of these symptoms varies from person to person. Asthma can be controlled well in most people most of the time, although some people may have more persistent problems.",
+        "symptoms": [
+            "wheezing (a whistling sound when you breathe)",
+            "shortness of breath",
+            "a tight chest – which may feel like a band is tightening around it ",
+            "coughing",
+            "your reliever inhaler (which is usually blue) is not helping symptoms as much as usual, or at all",
+            "wheezing, coughing and chest tightness becoming severe and constant",
+            "being too breathless to eat, speak or sleep",
+            "breathing faster",
+            "a rapid heartbeat",
+            "feeling drowsy, exhausted or dizzy",
+            "your lips or fingers turning blue (cyanosis)"
+        ],
+        "treatment": "Treatment is based on two important goals, which are:\n i) relieving symptoms\n ii) preventing future symptoms and attacks\nFor most people, this will involve the occasional – or, more commonly, daily – use of medications, usually taken using an inhaler. However, identifying and avoiding possible triggers is also important.",
+        "prevention": [
+            "Follow your asthma action plan",
+            "Get vaccinated for influenza and pneumonia",
+            "Identify and avoid asthma triggers",
+            "Monitor your breathing",
+            "Identify and treat attacks early"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Bladder cancer",
+        "about": "Bladder cancer is where a growth of abnormal tissue, known as a tumour, develops in the bladder lining. In some cases, the tumour spreads into the surrounding muscles.\nThe most common symptom of bladder cancer is blood in your urine, which is usually painless.",
+        "symptoms": [
+            "pelvic pain",
+            "bone pain",
+            "unintentional weight loss ",
+            "swelling of the legs",
+            "a need to urinate on a more frequent basis",
+            "sudden urges to urinate",
+            "a burning sensation when passing urine"
+        ],
+        "treatment": "In cases of non-muscle-invasive bladder cancer, it's usually possible to remove the cancerous cells while leaving the rest of the bladder intact.\nThis is done using a surgical technique called transurethral resection of a bladder tumour (TURBT). This is followed by a dose of chemotherapy medication directly into the bladder, to reduce the risk of the cancer returning.\nIn cases with a higher risk of recurrence, a medication known as Bacillus Calmette-Guérin (BCG) may be injected into the bladder to reduce the risk of the cancer returning.\nTreatment for high-risk non-muscle-invasive bladder cancer, or muscle-invasive bladder cancer may involve surgically removing the bladder in an operation known as a cystectomy.\nWhen the bladder is removed, you'll need another way of collecting your urine. Possible options include making an opening in the abdomen so urine can be passed into an external bag, or constructing a new bladder out of a section of bowel. This will be done at the same time as a cystectomy.\nIf it's possible to avoid removing the bladder, or if surgery is not suitable, a course of radiotherapy and chemotherapy may be recommended. Chemotherapy may sometimes be used on its own before surgery or before being combined with radiotherapy.",
+        "prevention": [
+            "stop smoking",
+            "avoid exposure to chemicals and dyes",
+            "drink plenty of water"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Bone cancer",
+        "about": "Primary bone cancer is a rare type of cancer that begins in the bones.\nThis is a separate condition from secondary bone cancer, which is cancer that spreads to the bones after developing in another part of the body.",
+        "symptoms": [
+            "persistent bone pain that gets worse over time and continues into the night",
+            "swelling and redness (inflammation) over a bone, which can make movement difficult if the affected bone is near a joint",
+            "a noticeable lump over a bone",
+            "a weak bone that breaks (fractures) more easily than normal"
+        ],
+        "treatment": "Treatment for bone cancer depends on the type of bone cancer you have and how far it has spread.\nMost people have a combination of:\n i) surgery to remove the section of cancerous bone – it's often possible to reconstruct or replace the bone that's been removed, but amputation is sometimes necessary\n ii) chemotherapy – treatment with powerful cancer-killing medication\n iii) radiotherapy – where radiation is used to destroy cancerous cells\nIn some cases of osteosarcoma, a medication called mifamurtide may also be recommended.",
+        "prevention": [
+            "No known methods at the moment."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Brain tumours",
+        "about": "A brain tumour is a growth of cells in the brain that multiplies in an abnormal, uncontrollable way. It can either be cancerous (malignant) or non-cancerous (benign).\nBrain tumours are graded from 1 to 4 according to their behaviour, such as how fast they grow and how likely they are to grow back after treatment.\n i) Benign brain tumours are low grade (grade 1 or 2), which means they grow slowly and are less likely to return after treatment.\n ii) Malignant brain tumours are high grade (grade 3 or 4) and either start in the brain (primary tumours) or spread into the brain from elsewhere (secondary tumours); they're more likely to grow back after treatment.",
+        "symptoms": [
+            "severe, persistent headaches",
+            "seizures (fits)",
+            "persistent nausea, vomiting and drowsiness",
+            "mental or behavioural changes, such as memory problems or changes in personality",
+            "progressive weakness or paralysis on one side of the body, vision problems, or speech problems"
+        ],
+        "treatment": "The main treatment for most brain tumours is surgery, which aims to remove as much of the abnormal tissue as possible.\nIt's not always possible to remove the entire tumour, so further treatment with radiotherapy and/or chemotherapy may be necessary to kill any abnormal cells left behind.\nFor most benign tumours, treatment is often successful and a full recovery is possible, although there's sometimes a small chance the tumour could come back. Regular follow-up appointments will normally be recommended to monitor this.",
+        "prevention": [
+            "Sleep properly",
+            "Hyperbaric Oxygen Therapy",
+            "Consume phytonutrients",
+            "Ketogenic diet",
+            "Calorie restriction",
+            "Limit exposure to mobile devices"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Breast cancer",
+        "about": "Breast cancer is usually diagnosed in women over 50, but younger women, and in rare cases, men, can also get breast cancer.\nIf it's treated early enough, breast cancer can be prevented from spreading to other parts of the body.",
+        "symptoms": [
+            "a change in the size or shape of one or both breasts",
+            "discharge from either of your nipples (which may be streaked with blood)",
+            "a lump or swelling in either of your armpits",
+            "dimpling on the skin of your breasts",
+            "a rash on or around your nipple",
+            "a change in the appearance of your nipple, such as becoming sunken into your breast"
+        ],
+        "treatment": "If cancer is detected at an early stage, it can be treated before it spreads to nearby parts of the body.\nBreast cancer is treated using a combination of surgery, chemotherapy and radiotherapy. Surgery is usually the first type of treatment you'll have, followed by chemotherapy or radiotherapy or, in some cases, hormone or biological treatments.\nThe type of surgery and the treatment you have afterwards will depend on the type of breast cancer you have. Your doctor will discuss the best treatment plan with you.",
+        "prevention": [
+            "Limit alcohol",
+            "Don't smoke",
+            "Control your weight",
+            "Be physically active",
+            "Breast feed"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Bronchiectasis",
+        "about": "Bronchiectasis is a long-term condition where the airways of the lungs become abnormally widened, leading to a build-up of excess mucus that can make the lungs more vulnerable to infection.",
+        "symptoms": [
+            "a persistent cough that usually brings up phlegm (sputum)",
+            "breathlessness"
+        ],
+        "treatment": "The damage caused to the lungs by bronchiectasis is permanent, but treatment can help relieve your symptoms and stop the damage getting worse.\nThe main treatments include:\n i) exercises and special devices to help you clear mucus out of your lungs\n ii) medication to help improve airflow within the lungs\n iii) antibiotics to treat any lung infections that develop\nSurgery is usually only considered for bronchiectasis in rare cases where other treatments haven't been effective, the damage to your bronchi is confined to a small area, and you're in good general health.",
+        "prevention": [
+            "prevent the lung infections and lung damage that can cause it",
+            "childhood vaccines for measles and whooping cough prevent infections related to these illnesses",
+            "avoiding toxic fumes, gases, smoke, and other harmful substances also can help protect your lungs."
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Bronchitis",
+        "about": "Bronchitis is an inflammation or swelling of the bronchial tubes (bronchi), the air passages between the mouth and nose and the lungs.\nMore specifically, bronchitis describes a condition where the lining of the bronchial tubes becomes inflamed.\nIndividuals with bronchitis have a reduced ability to breathe air and oxygen into their lungs; also, they cannot clear heavy mucus or phlegm from their airways.",
+        "symptoms": [
+            "Persistent cough, which may produce mucus",
+            "Wheezing",
+            "Low fever and chills",
+            "Chest tightening",
+            "Sore throat",
+            "Body aches",
+            "Breathlessness",
+            "Headaches",
+            "Blocked nose and sinuses"
+        ],
+        "treatment": "People suffering from bronchitis are usually instructed to rest, drink fluids, breath warm and moist air, and take OTC cough suppressants and pain relievers to manage symptoms and ease breathing.\nMany cases of acute bronchitis go away without any specific treatment, but there is no cure for chronic bronchitis. To keep bronchitis symptoms under control and relieve symptoms, doctors might prescribe medicines.",
+        "prevention": [
+            "Do not start smoking; quit smoking if you already smoke.",
+            "Avoid lung irritants such as smoke, dust, fumes, vapors, and air pollution. If avoiding exposure is not possible, wear a mask that covers the nose and mouth.",
+            "Wash hands often to limit exposure to germs and bacteria.",
+            "Get a yearly flu vaccine.",
+            "Get a pneumonia vaccine."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Bulimia",
+        "about": "Bulimia is an eating disorder and mental health condition.\nPeople who have bulimia go through periods where they eat a lot of food in a very short amount of time (binge eating) and then make themselves sick, use laxatives (medication to help them poo) or do excessive exercise, or a combination of these, to try to stop themselves gaining weight.\nMen and women of any age can get bulimia, but it's most common in young women and typically starts in the mid to late teens.",
+        "symptoms": [
+            "eating very large amounts of food in a short time, often in an out-of-control way – this is called binge eating",
+            "making yourself vomit, using laxatives, or doing an extreme amount of exercise after a binge to avoid putting on weight – this is called purging",
+            "fear of putting on weight",
+            "being very critical about your weight and body shape",
+            "mood changes – for example, feeling very tense or anxious"
+        ],
+        "treatment": "You can recover from bulimia, but it may take time and recovery will be different for everyone.\nYour treatment plan will be tailored to you and should take into account any other support you might need, such as for depression or anxiety.\nIf you're over 18, you'll probably be offered a guided self-help programme. This involves working through a self-help book, and often includes keeping a diary and making a plan for your meals.\nYou'll be supported by a therapist during this process. You may also be offered cognitive behavioural therapy (CBT).",
+        "prevention": [
+            "Changing the social acceptability of food shaming and negative food talk also has the potential to reduce the prevalence of eating disorders",
+            "Addressing emotions such as depression, stress and low self-esteem early in life"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Cervical cancer",
+        "about": "Cervical cancer is a type of cancer that develops in a woman's cervix (the entrance to the womb from the vagina).\nCancer of the cervix often has no symptoms in its early stages. If you do have symptoms, the most common is unusual vaginal bleeding, which can occur after sex, in between periods or after the menopause.",
+        "symptoms": [
+            "constipation",
+            "blood in your urine (haematuria)",
+            "loss of bladder control (urinary incontinence)",
+            "bone pain",
+            "swelling of one of your legs",
+            "severe pain in your side or back caused by swelling in your kidneys, related to a condition called hydronephrosis",
+            "changes to your bladder and bowel habits",
+            "loss of appetite",
+            "weight loss",
+            "tiredness and a lack of energy"
+        ],
+        "treatment": "If cervical cancer is diagnosed at an early stage, it's usually possible to treat it using surgery. In some cases, it's possible to leave the womb in place, but it may need to be removed. The surgical procedure used to remove the womb is called a hysterectomy.\nRadiotherapy is an alternative to surgery for some women with early stage cervical cancer. In some cases, it's used alongside surgery.\nMore advanced cases of cervical cancer are usually treated using a combination of chemotherapy and radiotherapy.\nSome of the treatments used can have significant and long-lasting side effects, including early menopause and infertility.",
+        "prevention": [
+            "Safer sex",
+            "Cervical screening",
+            "Cervical Cancer Vaccination",
+            "Avoid smoking"
+        ]
+    },
+{
 	"id" : 20,
 	"name" : "Chest Infection",
 	"about" : "Chest infections are common, especially after a cold or flu during autumn and winter.\nAlthough most are mild and get better on their own, some can be serious or even life-threatening.",
