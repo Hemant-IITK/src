@@ -19,7 +19,7 @@ CREATE TABLE forgotpassword(
   userid INT,
   uemail VARCHAR(60),
   randomstring VARCHAR(200)	
-)
+);
 /*TABLE for storing pending bookings*/
 CREATE TABLE pendingbookingsofdoctors(
   uid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -32,11 +32,14 @@ CREATE TABLE pendingbookingsofdoctors(
   hash VARCHAR(254),
   doctoremail VARCHAR(60)
 );
-
+CREATE TABLE location(
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  city VARCHAR(20)	
+);
 /*TABLE for storing doctor_info*/
 CREATE TABLE doctor_info(
   doc_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(50),
+  name VARCHAR(50),    
   fee INT,
   experience INT,
   speciality VARCHAR(50),
@@ -45,8 +48,9 @@ CREATE TABLE doctor_info(
   timeslot VARCHAR(20),
   gender VARCHAR(7),
   email VARCHAR(50),
-  image VARCHAR(254)	
+  image VARCHAR(100)	
 );
+/*
 CREATE TABLE doc_1(
   token INT AUTO_INCREMENT PRIMARY KEY,
   user_email VARCHAR(60)
@@ -87,6 +91,7 @@ CREATE TABLE doc_10(
   token INT AUTO_INCREMENT PRIMARY KEY,
   user_email VARCHAR(60)
 );
+*/
 /*Inserting doctors data*/
 INSERT INTO doctor_info(
   name,
@@ -96,8 +101,10 @@ INSERT INTO doctor_info(
   location,
   address,
   timing,
-  gender,
-  email
+  gender,   
+  email,
+  image	
+	/* for image: /images/imagem/doc_id.jpg(if male) and images/imagef/doc_id.jpg(if female) */
  )
 VALUES
 (
@@ -109,7 +116,8 @@ VALUES
 	'357,Street no.-8,Pratap Vihar,Ghaziabad',
 	'10am-12pm',
 	'Male',
-	'hemantiitkcse@gmail.com'
+	'hemantiitkcse@gmail.com',
+	'/images/imagem/1.jpg'
 ),
 (
 	'Rajan Singh',
@@ -120,7 +128,8 @@ VALUES
 	'222-B,Hauz Khas,New Delhi',
 	'12-2pm',
 	'Male',
-	'watashivahero@gmail.com'
+	'watashivahero@gmail.com',
+	'/images/imagem/2.jpg'
 ),
 (
 	'Shailendra Raj',
@@ -131,7 +140,8 @@ VALUES
 	'Street no-341, House no-22A, Azad Nagar,Guwahati',
 	'4-6pm',
 	'Male',
-	'shailendras@gmail.com'
+	'shailendras@gmail.com',
+	'/images/imagem/3.jpg'
 ),
 (
 	'Niharika Sharma',
@@ -142,7 +152,8 @@ VALUES
 	'Gali-313, Model Town,Lucknow',
 	'9-11am',
 	'Female',
-	'niharika@gmail.com'
+	'jhooteid@gmail.com',
+	'/images/imagef/4.jpg'
 ),
 (
 	'Shreya Hooda',
@@ -153,7 +164,8 @@ VALUES
 	'House no-221 B,Gali no-14, Nankari,Kanpur',
 	'7-9pm',
 	'Female',
-	'hooda_s@gmail.com'
+	'hooda_s@gmail.com',
+	'images/imagef/5.jpg'
 ),
 (
 	'Priya banarjee',
@@ -164,8 +176,8 @@ VALUES
 	'121, Gali no-1, AJC Bose road,Kolkata',
 	'5-7pm',
 	'Female',
-	'pbanerjee@gmail.com'
-
+	'pbanerjee@gmail.com',
+	'images/imagef/6.jpg'
 ),
 (
 	'Aarushi Saxena',
@@ -176,18 +188,20 @@ VALUES
 	'Plot-31,First floor,Marin Drive,Mumbai',
 	'4-7pm',
 	'Female',
-	'itsarushisaxena@gmail.com'
+	'itsarushisaxena@gmail.com',
+	'images/imagef/7.jpg'
 ),
 (
-	'Sana Afreen ',
-	NULL,
-	NULL,
-	'',
-	'',
-	'',
-	'',
+	'Urvashi',
+	400,
+	4,
+	'General Physician',
+	'Haryana',
+	'Gali no-123, House no-ABC, Haryana',
+	'3-6pm',
 	'Female',
-	''
+	'kuhemant@iitk.ac.in',
+	'images/imagef/8.jpg'
 ),
 (
 	'Ramesh Taneja',
@@ -198,7 +212,8 @@ VALUES
 	'XYZ block, near Calngute Beach,Goa',
 	'2-5pm',
 	'Male',
-	'r_taneja@gmail.com'
+	'r_taneja@gmail.com',
+	'images/imagem/9.jpg'
 ),
 (
 	'Akhilesh Parmanu',
@@ -209,8 +224,20 @@ VALUES
 	'Street-113,Block-21,Second Floor,Gandhinagar,Gujarat',
 	'3-7pm',
 	'Male',
-	'akparmanu@gmail.com'
+	'akparmanu@gmail.com',
+	'images/imagem/10.jpg'
 );
+INSERT INTO location(city) VALUES
+('Delhi'),	
+('Gujarat'),
+('Goa'),
+('Kanpur'),
+('Mumbai'),
+('Kolkata'),
+('Lucknow'),
+('Guwahati'),
+('Chennai'),
+('Haryana')
 /*disease table*/
 CREATE TABLE diseases(
   dis_id INT AUTO_INCREMENT PRIMARY KEY,
