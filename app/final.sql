@@ -21,8 +21,10 @@ CREATE TABLE users(
   uage INT,
   ugender VARCHAR(8),
   udob DATE, /*make seperate sql file to update age based on DATEDIFF(exp1,exp2) using dob*/
-  isloggedin VARCHAR(6)
+  isloggedin VARCHAR(6),
+  image VARCHAR(254)	
 );
+/* upload files table to be added */
 /* TABLE for storing forgot password entries */
 CREATE TABLE forgotpassword(
   userid INT,
