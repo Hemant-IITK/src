@@ -1,10 +1,10 @@
-/*DROP DATABASE information_project;*/  -- this is optional depending on the existence of the database information_project.
+DROP DATABASE information_project;  -- this is optional depending on the existence of the database information_project.
 CREATE DATABASE information_project;
 USE information_project;
 
 /*TABLE for storing user info*/
 CREATE TABLE users(
-  user_id INT  AUTO_INCREMENT PRIMARY KEY,
+  userid INT  AUTO_INCREMENT PRIMARY KEY,
   uname VARCHAR(55),
   uemail VARCHAR(60),
   upassword VARCHAR(254),
@@ -33,8 +33,13 @@ CREATE TABLE pendingbookingsofdoctors(
   doctoremail VARCHAR(60)
 );
 CREATE TABLE location(
-  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   city VARCHAR(20)	
+);
+CREATE TABLE feerange(
+  fee VARCHAR(5)
+);
+CREATE TABLE speciality(
+  speciality VARCHAR(50)
 );
 /*TABLE for storing doctor_info*/
 CREATE TABLE doctor_info(
@@ -58,7 +63,7 @@ INSERT INTO doctor_info(
   speciality,
   location,
   address,
-  timing,
+  timeslot,
   gender,   
   email,
   image	
@@ -195,7 +200,28 @@ INSERT INTO location(city) VALUES
 ('Lucknow'),
 ('Guwahati'),
 ('Chennai'),
-('Haryana')
+('Haryana');
+INSERT INTO feerange(fee) VALUES
+('100'),
+('200'),
+('300'),
+('400'),
+('500'),
+('600'),
+('700'),
+('800'),
+('900'),
+('1000');
+INSERT INTO speciality(speciality) VALUES
+('General Physician'),
+('Ayurvedic Expert'),
+('Homeopathic'),
+('Dentist'),
+('Audiologist'),
+('Dermatologist'),
+('Cardiologist'),
+('Gyancologist'),
+('Allergist');
 /*disease table*/
 CREATE TABLE diseases(
   dis_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -206,7 +232,6 @@ CREATE TABLE symptoms(
   id INT AUTO_INCREMENT PRIMARY KEY,
   sym_desc VARCHAR(255)
 );
-
 /*common table for symptoms and diseases*/
 CREATE TABLE symptoms_diseases(
    sym_id INT,
