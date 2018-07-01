@@ -2,6 +2,15 @@ DROP DATABASE information_project;  -- this is optional depending on the existen
 CREATE DATABASE information_project;
 USE information_project;
 
+CREATE TABLE pending(
+ id INT,
+ name VARCHAR(50),
+ password VARCHAR(254),
+ email VARCHAR(50),
+ dob DATE,
+ gender VARCHAR(7),
+ mobile VARCHAR(12)	
+);
 /*TABLE for storing user info*/
 CREATE TABLE users(
   userid INT  AUTO_INCREMENT PRIMARY KEY,
