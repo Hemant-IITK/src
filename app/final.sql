@@ -50,48 +50,6 @@ CREATE TABLE doctor_info(
   email VARCHAR(50),
   image VARCHAR(100)	
 );
-/*
-CREATE TABLE doc_1(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_2(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_3(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_4(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_5(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_6(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_7(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_8(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_9(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-CREATE TABLE doc_10(
-  token INT AUTO_INCREMENT PRIMARY KEY,
-  user_email VARCHAR(60)
-);
-*/
 /*Inserting doctors data*/
 INSERT INTO doctor_info(
   name,
@@ -245,7 +203,7 @@ CREATE TABLE diseases(
 );
 /*symptoms table*/
 CREATE TABLE symptoms(
-  sym_id INT AUTO_INCREMENT PRIMARY KEY,
+  id INT AUTO_INCREMENT PRIMARY KEY,
   sym_desc VARCHAR(255)
 );
 
@@ -254,7 +212,7 @@ CREATE TABLE symptoms_diseases(
    sym_id INT,
    dis_id INT,
    -- PRIMARY KEY(sym_id,dis_id),
-   FOREIGN KEY(sym_id) REFERENCES symptoms(sym_id),
+   FOREIGN KEY(sym_id) REFERENCES symptoms(id),
    FOREIGN KEY(dis_id) REFERENCES diseases(dis_id)
 );
 
