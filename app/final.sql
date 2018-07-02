@@ -204,7 +204,7 @@ VALUES
 	'akparmanu@gmail.com',
 	'images/imagem/10.jpg'
 );
-INSERT INTO location(city) VALUES
+INSERT INTO location(location) VALUES
 ('Delhi'),	
 ('Gujarat'),
 ('Goa'),
