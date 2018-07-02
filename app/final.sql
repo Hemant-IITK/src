@@ -44,12 +44,15 @@ CREATE TABLE pendingbookingsofdoctors(
   doctoremail VARCHAR(60)
 );
 CREATE TABLE location(
-  city VARCHAR(20)	
+  id INT AUTO_INCREMENT PRIMARY KEY,	
+  location VARCHAR(20)	
 );
 CREATE TABLE feerange(
-  fee VARCHAR(5)
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  fee_range VARCHAR(5)
 );
 CREATE TABLE speciality(
+  id INT AUTO_INCREMENT PRIMARY KEY,	
   speciality VARCHAR(50)
 );
 /*TABLE for storing doctor_info*/
@@ -212,7 +215,7 @@ INSERT INTO location(city) VALUES
 ('Guwahati'),
 ('Chennai'),
 ('Haryana');
-INSERT INTO feerange(fee) VALUES
+INSERT INTO feerange(fee_range) VALUES
 ('100'),
 ('200'),
 ('300'),
